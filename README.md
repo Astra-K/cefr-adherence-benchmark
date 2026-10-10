@@ -2,7 +2,7 @@
 
 Can a language model answer an English learner at the requested level instead of merely answering correctly? This benchmark measures tutor replies at A1, B1, and C1 under two conditions: a bare level request and an informed prompt that exposes the scorer's vocabulary and grammar guidance.
 
-The project is a publication candidate for the [Kaggle Benchmarks Challenge][4]. The local benchmark and single-file Kaggle task are complete. Kaggle version 5 is independently verified: 180/180 completed rows, 180/180 score parity, zero visible truncations, and mean score 0.9612. Public task and collection publication are the remaining platform steps.
+The project is a publication candidate for the [Kaggle Benchmarks Challenge][4]. The local benchmark and single-file Kaggle task are complete. [Kaggle version 5](https://www.kaggle.com/benchmarks/tasks/astrakamratowski/cefr-adherence-benchmark/5) is public and independently verified: 180/180 completed rows, 180/180 score parity, zero visible truncations, and mean score 0.9612. Publishing the Kaggle collection and completing human review are the remaining release steps.
 
 ## Current evidence
 
@@ -64,12 +64,11 @@ uv venv --python 3.11 .venv
 uv pip install --python .venv/bin/python -r requirements-dev.txt
 env -u PYTHONPATH .venv/bin/python scripts/gen_kaggle_task.py
 env -u PYTHONPATH .venv/bin/python -m pytest tests -q
-env -u PYTHONPATH .venv/bin/python scripts/rescore_v5_parity.py
 git diff --check
 git diff --exit-code -- kaggle_task/cefr_task.py kaggle_task/cefr_scorer_embedded.py
 ```
 
-The `env -u PYTHONPATH` prefix prevents an unrelated Hermes runtime path from shadowing the project environment.
+The `env -u PYTHONPATH` prefix prevents an unrelated Hermes runtime path from shadowing the project environment. Aggregate Qwen evidence, exact model IDs, hashes, and per-cell summaries are public. The 360 full generated replies are intentionally excluded; `scripts/rescore_v5_parity.py` is for owners who retain or regenerate that local input.
 
 ## Kaggle publication workflow
 

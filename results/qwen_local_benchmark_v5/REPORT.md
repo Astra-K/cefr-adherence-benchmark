@@ -5,6 +5,7 @@
 - overall mean: v4 0.8890 -> v5 0.8908
 - replies with changed combined: 22/360
 - max abs per-reply delta: 0.3750
+- public artifact policy: aggregate results and SHA-256 seals are retained; the 360 full generated replies are intentionally excluded
 
 | model | mean_v5 | relevant+adherent |
 |---|---:|---:|
