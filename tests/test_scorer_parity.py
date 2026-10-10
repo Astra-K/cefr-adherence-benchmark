@@ -9,6 +9,8 @@ import json
 from pathlib import Path
 import sys
 
+import pytest
+
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'src'))
 sys.path.insert(0, str(ROOT / 'kaggle_task'))
@@ -83,6 +85,8 @@ def test_dedoubled_consonant_stem_parity():
 
 
 def test_all_360_saved_answers_parity():
+    if not SCORED.exists():
+        pytest.skip('requires intentionally excluded full local-model replies')
     rows = [json.loads(l) for l in SCORED.read_text().splitlines()]
     assert len(rows) == 360
     mismatches = []

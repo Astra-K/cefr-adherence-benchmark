@@ -2,6 +2,8 @@ import importlib.util
 import json
 from pathlib import Path
 
+import pytest
+
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -20,6 +22,9 @@ def test_cleaned_dataset_contract():
 
 
 def test_preparation_is_deterministic_and_preserves_human_text():
+    source = ROOT / 'data/raw/items_original_v1.json'
+    if not source.exists():
+        pytest.skip('requires intentionally excluded source snapshot')
     path = ROOT / 'scripts/prepare_items.py'
     spec = importlib.util.spec_from_file_location('prepare_items_test', path)
     assert spec is not None and spec.loader is not None

@@ -74,7 +74,7 @@ git diff --check
 git diff --exit-code -- kaggle_task/cefr_task.py kaggle_task/cefr_scorer_embedded.py
 ```
 
-The `env -u PYTHONPATH` prefix prevents an unrelated Hermes runtime path from shadowing the project environment. Aggregate Qwen evidence, exact model IDs, hashes, and per-cell summaries are public. The 360 full generated replies are intentionally excluded; `scripts/rescore_v5_parity.py` is for owners who retain or regenerate that local input.
+The `env -u PYTHONPATH` prefix prevents an unrelated Hermes runtime path from shadowing the project environment. In a public-only checkout, the suite reports 85 passed, 2 intentional private-evidence skips, and 5 SDK subtests; the owner tree with those excluded inputs reports 87 passed and 5 SDK subtests. Aggregate Qwen evidence, exact model IDs, hashes, and per-cell summaries are public. The 360 full generated replies are intentionally excluded; `scripts/rescore_v5_parity.py` is for owners who retain or regenerate that local input.
 
 ## Kaggle publication workflow
 

@@ -84,6 +84,7 @@ def main() -> int:
         f"- overall mean: v4 {o4:.4f} -> v5 {o5:.4f}",
         f"- replies with changed combined: {changed}/360",
         f"- max abs per-reply delta: {max(deltas):.4f}",
+        "- public artifact policy: aggregate results and SHA-256 seals are retained; the 360 full generated replies are intentionally excluded",
         "",
         "| model | mean_v5 | relevant+adherent |",
         "|---|---:|---:|",
