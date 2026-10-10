@@ -32,6 +32,20 @@ There is no numeric rule such as `score >= 0.8`. The separate Boolean `adherent`
 
 The informed prompt calls its plain-language generation guidance `PASSING RULES`; that heading does not create a Kaggle pass/fail threshold. Its request for 3–5 sentences is prompt guidance, while the Boolean scorer's structural gate requires at least two detected sentences.
 
+### How I calibrated the level thresholds
+
+I did not choose the vocabulary and syntax limits after seeing model answers. With seed 13, I sampled 913 windows of 3–5 sentences at A1, B1, and C1 from five frozen UniversalCEFR English subsets. Of those, 891 windows contained at least 20 recognized content words and entered the threshold fit.
+
+For each target level, the vocabulary ceilings began at the 90th percentile of the corresponding violation rate in genuine level-labelled windows. I then loosened the two ceilings together in 5% steps until at least 90% of assessable windows passed both. The vocabulary floor came from the 10th percentile of the share of words in the target's top two bands. Syntax bands use the 5th–95th percentile range for sentence length, clauses per sentence, and word length. Grammar ceilings use the 90th-percentile absolute count of detected above-level constructions.
+
+| Target | One level above | Two-plus levels above or unlisted | Vocabulary floor | Above-level grammar allowance |
+|---|---:|---:|---:|---:|
+| A1 | 13.57% | 14.16% | none by design | at most 1 hit |
+| B1 | 5.45% | 9.91% | at least 6.25% A2/B1 words | at most 2 hits |
+| C1 | 1.39% | 13.51% | none: calibrated 10th percentile was zero | 0 hits |
+
+At scoring time, each vocabulary allowance has a one-token minimum so that one necessary off-list word does not automatically fail a short reply. The zero C1 floor is not hidden: it is why I describe the benchmark as testing ceiling adherence rather than proving complete C1 proficiency, and why a validated C1 floor is the first item in the follow-up plan. The frozen aggregate calibration artifact and code are public.[6][7]
+
 The Kaggle upload is one Python file. It contains the scorer, calibrated thresholds, word profiles, 30 attributed questions, prompts, and an eight-pair judge preflight. It needs no project files or internet downloads at runtime.
 
 ## Models tested
@@ -102,3 +116,5 @@ No UniversalCEFR learner text is embedded in the Kaggle task or public source re
 [1] https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/README.md — Open Language Profiles: CEFR-J datasets and terms
 [2] https://meta.stackexchange.com/help/licensing — Stack Exchange network licensing and revision-specific licence guidance
 [5] https://universalcefr.github.io — UniversalCEFR data directory and licences
+[6] https://github.com/Astra-K/cefr-adherence-benchmark/blob/main/results/calibration_v1.json — frozen aggregate calibration artifact
+[7] https://github.com/Astra-K/cefr-adherence-benchmark/blob/main/src/cefr_bench/calibrate.py — calibration procedure
