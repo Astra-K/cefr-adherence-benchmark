@@ -18,16 +18,16 @@ The useful result is not simply that the 9B local model outscored the 2B model. 
 - The optional C1 descriptor judge failed its gate with 4.17% sensitivity and is not part of the primary score.
 
 - Kaggle version 5: 180/180 completed and 180/180 local score parity; mean 0.9612; 180/180 relevant; 154/180 relevant plus CEFR-adherent; 0 near-cap outputs; 0 visibly truncated answers after full ending review.
+- Kaggle's 55.6% task display matches the minimum row score (0.5558), not a pass rate or the arithmetic mean. The task defines no numeric pass threshold; the benchmark uses No overall score.
 
 Do not claim that model size causes adherence, that the scorer proves language proficiency, that rejected version 4 is publication-valid, or that the two-model local pilot represents the wider model market.
 
 ## Still required before DEV publication
 
-1. Publish verified Kaggle version 5 and confirm anonymous access.
-2. Build and publish the Kaggle benchmark collection in the web interface, then verify anonymous access.
-3. Replace the final collection URL placeholder in `DEV_SUBMISSION_DRAFT.md`.
-4. Commit and push the verified public source candidate to the created GitHub repository.
-5. Publish one DEV submission with the required tags before the contest deadline.
+1. Review the final documentation changes and public benchmark description.
+2. Commit and push the final documentation update under Astra-K.
+3. Re-run the release gates and anonymous-link checks against the final commit.
+4. Publish exactly one DEV submission with the required tags before the contest deadline, only after explicit human approval.
 
 ## Optional, not blocking
 

@@ -2,7 +2,7 @@
 
 Can a language model answer an English learner at the requested level instead of merely answering correctly? This benchmark measures tutor replies at A1, B1, and C1 under two conditions: a bare level request and an informed prompt that exposes the scorer's vocabulary and grammar guidance.
 
-The project is a publication candidate for the [Kaggle Benchmarks Challenge][4]. The local benchmark and single-file Kaggle task are complete. [Kaggle version 5](https://www.kaggle.com/benchmarks/tasks/astrakamratowski/cefr-adherence-benchmark/5) is public and independently verified: 180/180 completed rows, 180/180 score parity, zero visible truncations, and mean score 0.9612. Publishing the Kaggle collection and completing human review are the remaining release steps.
+The project is a publication candidate for the [Kaggle Benchmarks Challenge][4]. The [public Kaggle benchmark](https://www.kaggle.com/benchmarks/astrakamratowski/cefr-adherence-benchmark) contains the independently verified [version 5 task](https://www.kaggle.com/benchmarks/tasks/astrakamratowski/cefr-adherence-benchmark/5): 180/180 completed rows, 180/180 score parity, zero visible truncations, and mean score 0.9612. Final human review and DEV publication are the remaining release steps.
 
 ## Current evidence
 
@@ -16,7 +16,9 @@ The frozen local pilot contains 360 replies: 30 learner questions × 3 target le
 
 The larger local model scored higher, but this two-model pilot is not enough to support a general scaling claim. Full cell-level results are in [`results/qwen_local_benchmark_v5/summary.csv`](results/qwen_local_benchmark_v5/summary.csv), with a short report in [`results/qwen_local_benchmark_v5/REPORT.md`](results/qwen_local_benchmark_v5/REPORT.md).
 
-The final Kaggle-hosted run used Gemini 3.7 Flash on all 180 rows. It scored **0.9612**, with **180/180 relevant** and **154/180 relevant-plus-adherent** replies. Independent verification found **180/180 score parity**, **0/180 near-cap outputs**, and **0/180 visibly truncated answers**. See [`results/kaggle_live_v5/REPORT.md`](results/kaggle_live_v5/REPORT.md).
+The final Kaggle-hosted run used Gemini 3.7 Flash on all 180 rows. The independently recomputed arithmetic mean was **0.9612**, with **180/180 relevant** and **154/180 relevant-plus-adherent** replies. Independent verification found **180/180 score parity**, **0/180 near-cap outputs**, and **0/180 visibly truncated answers**. See [`results/kaggle_live_v5/REPORT.md`](results/kaggle_live_v5/REPORT.md).
+
+Kaggle's task column displays **55.6%**, which matches the run's lowest row score (`0.5558`) after percentage formatting; it is not a pass rate or the 180-row mean. This float-returning task defines no numeric pass threshold, so the public benchmark intentionally uses **No overall score**. The separate relevant-plus-adherent diagnostic is described below.
 
 ## What the scorer measures
 
@@ -37,6 +39,10 @@ reply
 - Grammar ceilings count detected above-level constructions.
 - Syntax compares sentence length, clauses per sentence, and word length with calibrated bands.
 - The Kaggle task uses `kbench.judge_llm` only for binary, context-bound relevance. Missing or malformed judge evidence raises an unscored error instead of passing by default. Eight matched and mismatched probes must pass before the sweep starts.
+
+There is no rule such as `score >= 0.8`. The Boolean `adherent` diagnostic is true when the structural gate passes, the vocabulary ceiling is respected, the applicable vocabulary floor is met, and the above-level grammar count stays within its calibrated limit. The reported relevant-plus-adherent count additionally requires the relevance judge to pass. Syntax changes the continuous 0–1 score but does not decide that Boolean diagnostic.
+
+The informed prompt uses the heading `PASSING RULES` for plain-language generation guidance. That wording does not create a Kaggle pass/fail threshold. In particular, its request for 3–5 sentences is prompt guidance; the Boolean scorer only requires at least two detected sentences at the structural gate.
 
 The relevance judge is part of the primary Kaggle task because a fluent off-topic answer should not earn a high adherence score. A separate C1 descriptor judge was tested as an experimental extension, but it achieved only 4.17% sensitivity on the labelled pilot and failed its validation gate. It remains an optional research direction and is not included in the primary score.
 
@@ -101,7 +107,7 @@ Inspect every failed or unscored row before publication. If the task and runs ar
 kaggle b t publish cefr-adherence-benchmark
 ```
 
-The benchmark collection itself is assembled and published in Kaggle's web interface. Record its public URL in this README and in `DEV_SUBMISSION_DRAFT.md`.
+The public benchmark is <https://www.kaggle.com/benchmarks/astrakamratowski/cefr-adherence-benchmark>. It contains the public version 5 task and its imported Gemini 3.7 Flash result. Its overall-score mode is deliberately disabled because Kaggle's displayed task value matches the minimum row rather than the independently recomputed row mean.
 
 ### Are the two local models and one live Kaggle model enough?
 
@@ -118,6 +124,8 @@ The generated Kaggle notebook carries the source and licence notices in a visibl
 - The Kaggle Benchmarks SDK is an Apache-2.0 runtime dependency and is not vendored.
 
 Attribution does not cancel ShareAlike obligations. Preserve `ITEMS` metadata and the third-party notices when redistributing or adapting the task.
+
+Kaggle currently displays an Apache 2.0 metadata label on the task and benchmark pages. The uploaded notebook and this repository preserve the actual artifact terms: original benchmark code is AGPL-3.0-only, and embedded third-party material retains its separately listed licences. The platform label does not replace those copyright and licence notices.
 
 ## Limitations
 
@@ -144,7 +152,7 @@ Copyright © 2026 Astra / Astra-K. Original benchmark code is licensed under the
 ## Sources
 
 [1] https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/README.md — Open Language Profiles: CEFR-J datasets and terms
-[2] https://ell.stackexchange.com/help/licensing — English Language Learners Stack Exchange licensing
+[2] https://meta.stackexchange.com/help/licensing — Stack Exchange network licensing and revision-specific licence guidance
 [3] https://github.com/Kaggle/kaggle-cli/blob/main/skills/references/benchmarks.md — Kaggle CLI benchmark workflow
 [4] https://dev.to/challenges/kaggle-2026-09-23 — Kaggle Benchmarks Challenge
 [5] https://universalcefr.github.io — UniversalCEFR data directory and licences

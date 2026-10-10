@@ -75,5 +75,5 @@ The task uses the `kaggle-benchmarks` Python library, released by Kaggle under t
 ## Sources
 
 [1] https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/README.md — Open Language Profiles: CEFR-J datasets and terms
-[2] https://ell.stackexchange.com/help/licensing — English Language Learners Stack Exchange licensing
+[2] https://meta.stackexchange.com/help/licensing — Stack Exchange network licensing and revision-specific licence guidance
 [5] https://universalcefr.github.io — UniversalCEFR data directory and licences

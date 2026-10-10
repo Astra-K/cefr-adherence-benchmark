@@ -28,6 +28,10 @@ score = 0.4 × vocabulary + 0.4 × grammar + 0.2 × syntax
 
 A separate context-bound judge checks whether the answer addresses the learner's actual question. This is deliberately narrow. The judge does not grade style or factual correctness, and it does not replace the deterministic CEFR scorer. If the judge fails or returns malformed evidence, the row stays unscored instead of passing by default.
 
+There is no numeric rule such as `score >= 0.8`. The separate Boolean `adherent` diagnostic requires the structural gate, the level-specific vocabulary ceiling and floor, and the grammar ceiling to pass. The “relevant and adherent” counts below additionally require the relevance verdict to pass. Syntax affects the continuous score but not that Boolean diagnostic.
+
+The informed prompt calls its plain-language generation guidance `PASSING RULES`; that heading does not create a Kaggle pass/fail threshold. Its request for 3–5 sentences is prompt guidance, while the Boolean scorer's structural gate requires at least two detected sentences.
+
 The Kaggle upload is one Python file. It contains the scorer, calibrated thresholds, word profiles, 30 attributed questions, prompts, and an eight-pair judge preflight. It needs no project files or internet downloads at runtime.
 
 ## Models tested
@@ -67,6 +71,8 @@ That failed evaluator is not part of the benchmark score. It is preserved as an 
 
 The final Kaggle run completed all 180 rows. Independent rescoring matched Kaggle on 180/180 rows; all 180 replies were relevant, 154 were both relevant and CEFR-adherent, no output was near the combined 2,048-token cap, and manual review found zero visibly truncated answers. An earlier 1,024-token run scored 0.9679 but was rejected because 14 replies ended mid-sentence—platform completion alone was not enough.
 
+Kaggle's task column displays 55.6%, which matches the lowest v5 row score (`0.5558`) after percentage formatting. It is not a response pass rate and not the 180-row mean (`0.9612`). Because the float-returning task has no numeric pass threshold, I disabled the benchmark's overall-score column and report the verified aggregates explicitly.
+
 ## What I would measure next
 
 The highest-priority change is a validated C1 floor. That needs source-disjoint, participant-disjoint labelled text or human ratings on short tutor replies. I would also add factual-correctness checks, because relevance only tells us that an answer addresses the question.
@@ -77,22 +83,22 @@ A larger question set would reduce item sensitivity. The current 30 questions ar
 
 The repository preserves the generated task, deterministic scorer tests, source hashes, result summaries, and a per-item attribution table.
 
+Kaggle currently displays an Apache 2.0 metadata label on the task and benchmark pages. The uploaded notebook and source repository preserve the actual artifact terms: original benchmark code is AGPL-3.0-only, while embedded third-party material retains its separately listed licences. The platform label does not replace those notices.
+
 The benchmark uses CEFR-J Vocabulary Profile 1.5 and Grammar Profile 20180315 from Tono Laboratory at Tokyo University of Foreign Studies, plus the Octanove C1/C2 profile under CC BY-SA 4.0.[1] The learner questions retain the original author, profile link, question link, applicable CC BY-SA revision licence, source snapshot hash, and transformation record.[2]
 
 No UniversalCEFR learner text is embedded in the Kaggle task or public source repository. Frozen English subsets contributed aggregate calibration statistics; the public evidence retains source identities, hashes, aggregate results, and their recorded CC BY-NC-SA 4.0 or CC0 1.0 terms.[5]
 
 ## My benchmark
 
-<!-- REQUIRED FOR ELIGIBILITY: replace with the public Kaggle benchmark collection URL. -->
-
 **Kaggle task:** <https://www.kaggle.com/benchmarks/tasks/astrakamratowski/cefr-adherence-benchmark/5>
 
-**Kaggle benchmark collection:** `[PUBLIC_KAGGLE_BENCHMARK_URL]`
+**Kaggle benchmark:** <https://www.kaggle.com/benchmarks/astrakamratowski/cefr-adherence-benchmark>
 
 **Source repository:** <https://github.com/Astra-K/cefr-adherence-benchmark>
 
 ## Sources
 
 [1] https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/README.md — Open Language Profiles: CEFR-J datasets and terms
-[2] https://ell.stackexchange.com/help/licensing — English Language Learners Stack Exchange licensing
+[2] https://meta.stackexchange.com/help/licensing — Stack Exchange network licensing and revision-specific licence guidance
 [5] https://universalcefr.github.io — UniversalCEFR data directory and licences
