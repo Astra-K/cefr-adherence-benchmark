@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors",
+      "title": "Council of Europe: CEFR descriptors",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 2,
+      "url": "https://rm.coe.int/chapter-5-communicative-language-competences/1680a084c3",
+      "title": "CEFR Companion Volume: communicative language competences",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 3,
+      "url": "https://researchdatasets.cambridge.org/datasets/write-and-improve-corpus-2024",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 4,
+      "url": "https://universalcefr.github.io",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 5,
+      "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/a576329d-c83b-411d-ac17-8a2093844331/content",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 6,
+      "url": "https://aclanthology.org/2024.emnlp-main.682.pdf",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 7,
+      "url": "https://huggingface.co/datasets/UniversalCEFR/readme_en/raw/main/README.md",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 8,
+      "url": "https://raw.githubusercontent.com/tareknaous/readme/main/README.md",
+      "title": "",
+      "accessed": "2026-10-08"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "verdict": "rejected_for_publication",
+  "reviewed_near_cap_rows": 19,
+  "visibly_truncated_rows": 14,
+  "visibly_truncated_param_ids": [1, 25, 26, 31, 37, 61, 85, 109, 112, 115, 121, 139, 145, 157],
+  "complete_near_cap_param_ids": [13, 55, 91, 103, 175],
+  "reason": "Fourteen visible answers terminate mid-sentence at 1020 output tokens. Kaggle reports Completed but omits provider finish reasons, so the verdict is based on verbatim answer inspection plus cap pressure.",
+  "replacement_requirement": "Retain reasoning=low and raise the combined reasoning-and-answer allowance before another full run."
+}

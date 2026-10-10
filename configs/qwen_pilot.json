@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "purpose": "Owner-selected four-model pilot; local generation runnable, paid stages require separate route/budget/live-judge validation",
+  "models": [
+    {
+      "id": "Qwen/Qwen3.5-2B",
+      "execution": "local",
+      "runtime": {
+        "mlx-lm": "0.31.3",
+        "mlx": "0.31.2",
+        "transformers": "5.7.0",
+        "huggingface-hub": "1.12.2"
+      },
+      "weights_path": "~/.cache/huggingface/hub/models--mlx-community--Qwen3.5-2B-4bit/snapshots/674aaa7240b91e8012fcad5d791b7dfe5ba90207",
+      "revision": "674aaa7240b91e8012fcad5d791b7dfe5ba90207",
+      "quantization": {
+        "group_size": 64,
+        "bits": 4,
+        "mode": "affine"
+      },
+      "serving_repo": "mlx-community/Qwen3.5-2B-4bit"
+    },
+    {
+      "id": "Qwen/Qwen3.5-9B",
+      "execution": "local",
+      "runtime": {
+        "mlx-lm": "0.31.3",
+        "mlx": "0.31.2",
+        "transformers": "5.7.0",
+        "huggingface-hub": "1.12.2"
+      },
+      "weights_path": "~/.cache/huggingface/hub/models--mlx-community--Qwen3.5-9B-4bit/snapshots/8b2b98c00a6b4d291155e4890773ca8f769aee53",
+      "revision": "8b2b98c00a6b4d291155e4890773ca8f769aee53",
+      "quantization": {
+        "group_size": 64,
+        "bits": 4,
+        "mode": "affine"
+      },
+      "serving_repo": "mlx-community/Qwen3.5-9B-4bit"
+    },
+    {
+      "id": "qwen/qwen3.8-27b",
+      "execution": "openrouter",
+      "provider_route": null
+    },
+    {
+      "id": "qwen/qwen3.8-flash",
+      "execution": "openrouter",
+      "provider_route": null,
+      "parameter_count": "not assumed"
+    }
+  ],
+  "levels": [
+    "A1",
+    "B1",
+    "C1"
+  ],
+  "conditions": [
+    "bare",
+    "informed"
+  ],
+  "repeats_first_pass": 1,
+  "temperature": 0.7,
+  "reasoning_policy": "Non-thinking where supported; verify actual request behavior; score final answer only",
+  "planned_item_count": 30,
+  "item_count_status": "30 cleaned, attributed, source-hash-pinned items",
+  "judge": {
+    "model": null,
+    "policy": "One fixed context-bound relevance judge for all arms; errors unscored, not passes",
+    "preflight_required": true,
+    "manual_balanced_audit_required": true,
+    "implementation": "Shared src/cefr_bench/relevance.py and scripts/judge_saved_answers.py; generation saved first, errors never default to pass"
+  },
+  "paid_spend_cap_usd": null,
+  "execution_status": "local_smoke_tests_then_sequential_generation",
+  "preconditions": [
+    "Clean and freeze the same human-written item set for all models",
+    "Integrate context-bound relevance gate into API and local harness paths",
+    "Validate chosen judge with real matched/mismatched preflight calls",
+    "Locate and validate local weights; approve any necessary downloads",
+    "Check local memory/process headroom and load one local model at a time",
+    "Record local runtime, revisions, precision and API provider routes",
+    "Approve total paid-call budget including judge calls and retries",
+    "Run smoke tests before the full sweep"
+  ],
+  "interpretation": "Practical candidate comparison, not a causal size-only experiment: Qwen versions and local/API precision differ",
+  "excluded": [
+    "Qwen3-Next-80B-A3B-Instruct",
+    "Gemma models",
+    "other benchmark candidates"
+  ],
+  "top_p": 0.8,
+  "top_k": 20,
+  "seed": 42,
+  "max_completion_tokens": 512,
+  "dataset_sha256": "02057556dd4bff7154911f84b50169641b17dcd8bceca50c832741e40d4c1501"
+}

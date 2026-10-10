@@ -1,0 +1,38 @@
+[
+  {
+    "target": "A1",
+    "text_level": "B1",
+    "mean_violation_rate": 0.1978,
+    "n": 60
+  },
+  {
+    "target": "A1",
+    "text_level": "C1",
+    "mean_violation_rate": 0.2962,
+    "n": 60
+  },
+  {
+    "target": "B1",
+    "text_level": "A1",
+    "mean_violation_rate": 0.0334,
+    "n": 60
+  },
+  {
+    "target": "B1",
+    "text_level": "C1",
+    "mean_violation_rate": 0.0848,
+    "n": 60
+  },
+  {
+    "target": "C1",
+    "text_level": "A1",
+    "mean_violation_rate": 0.0307,
+    "n": 60
+  },
+  {
+    "target": "C1",
+    "text_level": "B1",
+    "mean_violation_rate": 0.0221,
+    "n": 60
+  }
+]

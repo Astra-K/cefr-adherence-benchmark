@@ -1,0 +1,782 @@
+[
+  {
+    "id": "e01",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Why can \"populace\" be used as an adjective in \"most populace cities?\"\n\nI wanted to talk about the cities where the population is high. My correspondent told me we must say: The most populace cities Instead of: The most populated cities I don't understand how the noun populace can be used as an adjective. Can you explain that to me?",
+    "title": "Why can \"populace\" be used as an adjective in \"most populace cities?\"",
+    "body_text": "I wanted to talk about the cities where the population is high. My correspondent told me we must say: The most populace cities Instead of: The most populated cities I don't understand how the noun populace can be used as an adjective. Can you explain that to me?",
+    "source": "ell.stackexchange.com",
+    "question_id": 136006,
+    "link": "https://ell.stackexchange.com/questions/136006/why-can-populace-be-used-as-an-adjective-in-most-populace-cities",
+    "score": 26,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "lionel",
+      "url": "https://ell.stackexchange.com/users/41635/lionel"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e02",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Is \"rain is falling\" entirely wrong?\n\nI thought it was a custom in English to write \"it is raining\" instead of \"rain is falling\". Still I don't know why the second construction is wrong. Yet I found a song called Rain is Falling , so I'm confused. Is this construction entirely wrong?",
+    "title": "Is \"rain is falling\" entirely wrong?",
+    "body_text": "I thought it was a custom in English to write \"it is raining\" instead of \"rain is falling\". Still I don't know why the second construction is wrong. Yet I found a song called Rain is Falling , so I'm confused. Is this construction entirely wrong?",
+    "source": "ell.stackexchange.com",
+    "question_id": 1125,
+    "link": "https://ell.stackexchange.com/questions/1125/is-rain-is-falling-entirely-wrong",
+    "score": 29,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Mistu4u",
+      "url": "https://ell.stackexchange.com/users/91/mistu4u"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e03",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Why 11 am + 1 hour == 12:00 pm?\n\nOne hour after 11:00 am is 12:00 pm. I find this very strange. Why isn't it 12:00 am? More descriptively, I thought we can think of the am/pm part as a time unit representing a higher amount than the numerical unit. If so, it would represent 12 hours time unit, and it switches back after the numerical value overflows 12. Then, 11:00 am + 1 hour should be 12:00 am or 0:00 pm, not 12:00 pm. What knowledge am I missing here?",
+    "title": "Why 11 am + 1 hour == 12:00 pm?",
+    "body_text": "One hour after 11:00 am is 12:00 pm. I find this very strange. Why isn't it 12:00 am? More descriptively, I thought we can think of the am/pm part as a time unit representing a higher amount than the numerical unit. If so, it would represent 12 hours time unit, and it switches back after the numerical value overflows 12. Then, 11:00 am + 1 hour should be 12:00 am or 0:00 pm, not 12:00 pm. What knowledge am I missing here?",
+    "source": "ell.stackexchange.com",
+    "question_id": 152603,
+    "link": "https://ell.stackexchange.com/questions/152603/why-11-am-1-hour-1200-pm",
+    "score": 337,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "Yuki Inoue",
+      "url": "https://ell.stackexchange.com/users/67674/yuki-inoue"
+    },
+    "source_snapshot": "data/raw/ell_replacement_time_withbody.json",
+    "source_snapshot_sha256": "a108fa3bc275aaf91442190022cdb5191ca5e54f5e0dc645b0304a81cf9d9b6d",
+    "source_media_types": [],
+    "replaces_question_id": 299751,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e04",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "When a girl mentions her girlfriend, does she mean it like lesbian girlfriend?\n\nI have a classmate and sometimes she says something like \"I told my girlfriend that she has to blah blah\". Does this wording imply a lesbian relationship, or is she referring to a her best friend (a girl) only?",
+    "title": "When a girl mentions her girlfriend, does she mean it like lesbian girlfriend?",
+    "body_text": "I have a classmate and sometimes she says something like \"I told my girlfriend that she has to blah blah\". Does this wording imply a lesbian relationship, or is she referring to a her best friend (a girl) only?",
+    "source": "ell.stackexchange.com",
+    "question_id": 107424,
+    "link": "https://ell.stackexchange.com/questions/107424/when-a-girl-mentions-her-girlfriend-does-she-mean-it-like-lesbian-girlfriend",
+    "score": 54,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Ashkan S",
+      "url": "https://ell.stackexchange.com/users/40604/ashkan-s"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e05",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Is \"says you\" grammatically correct?\n\nSo I heard it from a character in a movie, and looked it up . If it's correct, why add '-s' to say when the subject is \"you\"?",
+    "title": "Is \"says you\" grammatically correct?",
+    "body_text": "So I heard it from a character in a movie, and looked it up . If it's correct, why add '-s' to say when the subject is \"you\"?",
+    "source": "ell.stackexchange.com",
+    "question_id": 95651,
+    "link": "https://ell.stackexchange.com/questions/95651/is-says-you-grammatically-correct",
+    "score": 38,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "qyy",
+      "url": "https://ell.stackexchange.com/users/34472/qyy"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e06",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Working in / for / at?\n\nWhich is the correct way to tell where I'm working? I'm working in XYZ company. I'm working for XYZ company. I'm working at XYZ company. Or is there any difference in the meaning?",
+    "title": "Working in / for / at?",
+    "body_text": "Which is the correct way to tell where I'm working? I'm working in XYZ company. I'm working for XYZ company. I'm working at XYZ company. Or is there any difference in the meaning?",
+    "source": "ell.stackexchange.com",
+    "question_id": 5411,
+    "link": "https://ell.stackexchange.com/questions/5411/working-in-for-at",
+    "score": 40,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Nalaka526",
+      "url": "https://ell.stackexchange.com/users/148/nalaka526"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e07",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "“GOD is real, unless declared integer.”\n\nI'm unable to interpret a sentence though searched and read multiple explanations. “GOD is real, unless declared integer.” a Fortran-based witticism Real is real number, What's the idioms it refers to ?",
+    "title": "“GOD is real, unless declared integer.”",
+    "body_text": "I'm unable to interpret a sentence though searched and read multiple explanations. “GOD is real, unless declared integer.” a Fortran-based witticism Real is real number, What's the idioms it refers to ?",
+    "source": "ell.stackexchange.com",
+    "question_id": 163171,
+    "link": "https://ell.stackexchange.com/questions/163171/god-is-real-unless-declared-integer",
+    "score": 146,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Wizard",
+      "url": "https://ell.stackexchange.com/users/64925/wizard"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e08",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "\"How many psychologists does it take to change a light bulb?\"\n\nIs the following sentence grammatically correct? (I found this sentence on a friend's wall on Facebook) How many psychologists does it take to change a light bulb? or it should be How many psychologists are needed to change a light bulb?",
+    "title": "\"How many psychologists does it take to change a light bulb?\"",
+    "body_text": "Is the following sentence grammatically correct? (I found this sentence on a friend's wall on Facebook) How many psychologists does it take to change a light bulb? or it should be How many psychologists are needed to change a light bulb?",
+    "source": "ell.stackexchange.com",
+    "question_id": 123615,
+    "link": "https://ell.stackexchange.com/questions/123615/how-many-psychologists-does-it-take-to-change-a-light-bulb",
+    "score": 28,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Virtuous Legend",
+      "url": "https://ell.stackexchange.com/users/12430/virtuous-legend"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e09",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "\"To death\" vs \"to the death\"\n\nSometimes I see the former, as in \"starve to death\". But sometimes I see the latter as well, as in \"fight to the death\", or in the following quote: I disapprove of what you say, but I will defend to the death your right to say it. – Evelyn Beatrice Hall When do I use which?",
+    "title": "\"To death\" vs \"to the death\"",
+    "body_text": "Sometimes I see the former, as in \"starve to death\". But sometimes I see the latter as well, as in \"fight to the death\", or in the following quote: I disapprove of what you say, but I will defend to the death your right to say it. – Evelyn Beatrice Hall When do I use which?",
+    "source": "ell.stackexchange.com",
+    "question_id": 100763,
+    "link": "https://ell.stackexchange.com/questions/100763/to-death-vs-to-the-death",
+    "score": 48,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Leaky Nun",
+      "url": "https://ell.stackexchange.com/users/40383/leaky-nun"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e10",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "When a word ends in 's' or 'x', do you add 's or just an '?\n\n1) Alex's house 2) Alex' house When the noun ends with the letter 's' or 'x', do I need to put 's' after an apostrophe or not? I remember I read some rules related to this in my school grammar book, but now I've forgotten it.",
+    "title": "When a word ends in 's' or 'x', do you add 's or just an '?",
+    "body_text": "1) Alex's house 2) Alex' house When the noun ends with the letter 's' or 'x', do I need to put 's' after an apostrophe or not? I remember I read some rules related to this in my school grammar book, but now I've forgotten it.",
+    "source": "ell.stackexchange.com",
+    "question_id": 6295,
+    "link": "https://ell.stackexchange.com/questions/6295/when-a-word-ends-in-s-or-x-do-you-add-s-or-just-an",
+    "score": 29,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "T2E",
+      "url": "https://ell.stackexchange.com/users/1500/t2e"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e11",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "How to pronounce \"Gradle\"?\n\nWe use a building tool named Gradle in our project, but we don't know how to pronounce the a in it. Someone speaks it like a in cake , but someone speaks it like a in bad . How may we determine the correct pronunciation of this unique proper name, which does not appear in dictionaries?",
+    "title": "How to pronounce \"Gradle\"?",
+    "body_text": "We use a building tool named Gradle in our project, but we don't know how to pronounce the a in it. Someone speaks it like a in cake , but someone speaks it like a in bad . How may we determine the correct pronunciation of this unique proper name, which does not appear in dictionaries?",
+    "source": "ell.stackexchange.com",
+    "question_id": 14061,
+    "link": "https://ell.stackexchange.com/questions/14061/how-to-pronounce-gradle",
+    "score": 28,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Freewind",
+      "url": "https://ell.stackexchange.com/users/1941/freewind"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e12",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "What's the meaning of \"break your legs\"?\n\nOne of my friend told me to break my legs before entering the examination hall...I was confused with her words! How am I supposed to sit for the exam if i broke my legs? Or maybe is it kind of idioms/phrases?",
+    "title": "What's the meaning of \"break your legs\"?",
+    "body_text": "One of my friend told me to break my legs before entering the examination hall...I was confused with her words! How am I supposed to sit for the exam if i broke my legs? Or maybe is it kind of idioms/phrases?",
+    "source": "ell.stackexchange.com",
+    "question_id": 89659,
+    "link": "https://ell.stackexchange.com/questions/89659/whats-the-meaning-of-break-your-legs",
+    "score": 52,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Wendy lly",
+      "url": "https://ell.stackexchange.com/users/33962/wendy-lly"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e13",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Assigned to a job I know nothing about it - is there an idiom for that idea?\n\nI'd like to know an idiom that let me express the idea of being assigned to a job/task you have no clue at all. My first language is Spanish, and we have a cool idiom for this situation (rough translation: I was sent straight to war!), but I don't know if there is a similar one in English...",
+    "title": "Assigned to a job I know nothing about it - is there an idiom for that idea?",
+    "body_text": "I'd like to know an idiom that let me express the idea of being assigned to a job/task you have no clue at all. My first language is Spanish, and we have a cool idiom for this situation (rough translation: I was sent straight to war!), but I don't know if there is a similar one in English...",
+    "source": "ell.stackexchange.com",
+    "question_id": 102957,
+    "link": "https://ell.stackexchange.com/questions/102957/assigned-to-a-job-i-know-nothing-about-it-is-there-an-idiom-for-that-idea",
+    "score": 30,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "dmoya",
+      "url": "https://ell.stackexchange.com/users/41408/dmoya"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e14",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "What is the opposite of 'picky'?\n\nWhat adjective would be used to describe an attitude where one is not too demanding about something (like the food they eat, the clothes they wear, etc.). I'm looking for a word that sounds fairly informal or colloquial.",
+    "title": "What is the opposite of 'picky'?",
+    "body_text": "What adjective would be used to describe an attitude where one is not too demanding about something (like the food they eat, the clothes they wear, etc.). I'm looking for a word that sounds fairly informal or colloquial.",
+    "source": "ell.stackexchange.com",
+    "question_id": 167942,
+    "link": "https://ell.stackexchange.com/questions/167942/what-is-the-opposite-of-picky",
+    "score": 27,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "user18894",
+      "url": "https://ell.stackexchange.com/users/76072/user18894"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e15",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Why is \"letter\" not plural in \"two letter words\"?\n\nWhy is \"letter\" not plural in \"two letter words\"? For me it's very strange as the equivalent in French would be plural but my English friend finds it totally normal.",
+    "title": "Why is \"letter\" not plural in \"two letter words\"?",
+    "body_text": "Why is \"letter\" not plural in \"two letter words\"? For me it's very strange as the equivalent in French would be plural but my English friend finds it totally normal.",
+    "source": "ell.stackexchange.com",
+    "question_id": 123894,
+    "link": "https://ell.stackexchange.com/questions/123894/why-is-letter-not-plural-in-two-letter-words",
+    "score": 31,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Gudradain",
+      "url": "https://ell.stackexchange.com/users/51867/gudradain"
+    },
+    "source_snapshot": "data/raw/ell_replacements_withbody.json",
+    "source_snapshot_sha256": "f5ef2f567895ed9dabe1af7f133128fcbc0ed3d7bf60dcdb4fde0703b4189fe5",
+    "source_media_types": [],
+    "replaces_question_id": 95495,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e16",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Which word is correct, \"existed\", \"existent\" or \"existing\"?\n\nTo express that the results already exist, should I say: \"the existed result\", or \"the existent result\", or \"the existing result\"?",
+    "title": "Which word is correct, \"existed\", \"existent\" or \"existing\"?",
+    "body_text": "To express that the results already exist, should I say: \"the existed result\", or \"the existent result\", or \"the existing result\"?",
+    "source": "ell.stackexchange.com",
+    "question_id": 16166,
+    "link": "https://ell.stackexchange.com/questions/16166/which-word-is-correct-existed-existent-or-existing",
+    "score": 25,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "Ginger",
+      "url": "https://ell.stackexchange.com/users/4064/ginger"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e17",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "'Hard work never hurt anyone' Why not 'hurts'?\n\nI saw this sentence: Hard work never hurt anyone. It's a good phrase, but I wonder why it is 'hurt' not 'hurts'? I think 'hurts' (3rd-person singular present) is more correct. Why is it 'hurt'?",
+    "title": "'Hard work never hurt anyone' Why not 'hurts'?",
+    "body_text": "I saw this sentence: Hard work never hurt anyone. It's a good phrase, but I wonder why it is 'hurt' not 'hurts'? I think 'hurts' (3rd-person singular present) is more correct. Why is it 'hurt'?",
+    "source": "ell.stackexchange.com",
+    "question_id": 222860,
+    "link": "https://ell.stackexchange.com/questions/222860/hard-work-never-hurt-anyone-why-not-hurts",
+    "score": 26,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "Dasik",
+      "url": "https://ell.stackexchange.com/users/4545/dasik"
+    },
+    "source_snapshot": "data/raw/ell_replacements_withbody.json",
+    "source_snapshot_sha256": "f5ef2f567895ed9dabe1af7f133128fcbc0ed3d7bf60dcdb4fde0703b4189fe5",
+    "source_media_types": [],
+    "replaces_question_id": 33865,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e18",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Explanation for a joke about a three-legged dog that walks into a bar\n\nI came across this joke on the internet: A three-legged dog walks into a bar and says to the bartender, 'I'm looking for the man who shot my paw' It is meant to be a \"dad joke\" but I don't understand it. What does it mean?",
+    "title": "Explanation for a joke about a three-legged dog that walks into a bar",
+    "body_text": "I came across this joke on the internet: A three-legged dog walks into a bar and says to the bartender, 'I'm looking for the man who shot my paw' It is meant to be a \"dad joke\" but I don't understand it. What does it mean?",
+    "source": "ell.stackexchange.com",
+    "question_id": 219221,
+    "link": "https://ell.stackexchange.com/questions/219221/explanation-for-a-joke-about-a-three-legged-dog-that-walks-into-a-bar",
+    "score": 33,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "TK-421",
+      "url": "https://ell.stackexchange.com/users/97164/tk-421"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e19",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Why it is called 'Black Friday'?\n\nIn the Western countries like USA and Canada, there is a shopping fest(festival) called Black Friday , I wonder why the word 'black' is added to it? I think the 'word' black denotes some negativity or darkness. Why not call that Friday a Green or Yellow Friday because everybody is happy, everybody wins!",
+    "title": "Why it is called 'Black Friday'?",
+    "body_text": "In the Western countries like USA and Canada, there is a shopping fest(festival) called Black Friday , I wonder why the word 'black' is added to it? I think the 'word' black denotes some negativity or darkness. Why not call that Friday a Green or Yellow Friday because everybody is happy, everybody wins!",
+    "source": "ell.stackexchange.com",
+    "question_id": 74861,
+    "link": "https://ell.stackexchange.com/questions/74861/why-it-is-called-black-friday",
+    "score": 28,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Dragut",
+      "url": "https://ell.stackexchange.com/users/27242/dragut"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e20",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "What is the document called that parents have to sign so their underage children can take part in something?\n\nWhen you're a kid and you want to go to some event or a school excursion you have to bring a document signed by your parents saying that they've given their permission. What is this document usually called?",
+    "title": "What is the document called that parents have to sign so their underage children can take part in something?",
+    "body_text": "When you're a kid and you want to go to some event or a school excursion you have to bring a document signed by your parents saying that they've given their permission. What is this document usually called?",
+    "source": "ell.stackexchange.com",
+    "question_id": 103972,
+    "link": "https://ell.stackexchange.com/questions/103972/what-is-the-document-called-that-parents-have-to-sign-so-their-underage-children",
+    "score": 30,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "Arthur Corenzan",
+      "url": "https://ell.stackexchange.com/users/41913/arthur-corenzan"
+    },
+    "source_snapshot": "data/raw/ell_replacements_withbody.json",
+    "source_snapshot_sha256": "f5ef2f567895ed9dabe1af7f133128fcbc0ed3d7bf60dcdb4fde0703b4189fe5",
+    "source_media_types": [],
+    "replaces_question_id": 217778,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e21",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "What would you call someone who sneaks into and stays in places where they have to be signed up, e.g. classes/country clubs\n\nAt my school I used to be in athletics class even though I didn’t sign up or paid to be there, I just simply started acting as if I was part of the team. How would you call a person like that?",
+    "title": "What would you call someone who sneaks into and stays in places where they have to be signed up, e.g. classes/country clubs",
+    "body_text": "At my school I used to be in athletics class even though I didn’t sign up or paid to be there, I just simply started acting as if I was part of the team. How would you call a person like that?",
+    "source": "ell.stackexchange.com",
+    "question_id": 149870,
+    "link": "https://ell.stackexchange.com/questions/149870/what-would-you-call-someone-who-sneaks-into-and-stays-in-places-where-they-have",
+    "score": 30,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Ashley Lawrence",
+      "url": "https://ell.stackexchange.com/users/50579/ashley-lawrence"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e22",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "\"He is 80 years young\"\n\nI've seen statements like \"He is 80 years young\" in many places. Also, I know that it means the same as He is 80 years old. Now, why do people use 'young' instead of 'old' if it means the same? Or am I entirely misinformed and the statement is actually invalid?",
+    "title": "\"He is 80 years young\"",
+    "body_text": "I've seen statements like \"He is 80 years young\" in many places. Also, I know that it means the same as He is 80 years old. Now, why do people use 'young' instead of 'old' if it means the same? Or am I entirely misinformed and the statement is actually invalid?",
+    "source": "ell.stackexchange.com",
+    "question_id": 75576,
+    "link": "https://ell.stackexchange.com/questions/75576/he-is-80-years-young",
+    "score": 27,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "Varun Nair",
+      "url": "https://ell.stackexchange.com/users/27122/varun-nair"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e23",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "Which is the correct question (\"Who has\" vs \"Who have\")?\n\nThe situation is that: We've already read three English novels. Which is the correct question for that situation? Who has already read three English novels? Who have already read three English novels? Or could both be correct? Please also provide the grammatical reasons for your answers.",
+    "title": "Which is the correct question (\"Who has\" vs \"Who have\")?",
+    "body_text": "The situation is that: We've already read three English novels. Which is the correct question for that situation? Who has already read three English novels? Who have already read three English novels? Or could both be correct? Please also provide the grammatical reasons for your answers.",
+    "source": "ell.stackexchange.com",
+    "question_id": 30443,
+    "link": "https://ell.stackexchange.com/questions/30443/which-is-the-correct-question-who-has-vs-who-have",
+    "score": 31,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "bella",
+      "url": "https://ell.stackexchange.com/users/9229/bella"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "e24",
+    "kind": "everyday",
+    "category_validated": false,
+    "text": "What's a polite way of asking \"who are you?\" on the phone?\n\nSay, you're working in a company. The phone rings and you pick it up. On the other line, someone wants to speak to one of your co-workers. You want to tell your co-worker who this person is. I think asking \"May I know who you are?\" is a bit rude? What's a more common or softer alternative?",
+    "title": "What's a polite way of asking \"who are you?\" on the phone?",
+    "body_text": "Say, you're working in a company. The phone rings and you pick it up. On the other line, someone wants to speak to one of your co-workers. You want to tell your co-worker who this person is. I think asking \"May I know who you are?\" is a bit rude? What's a more common or softer alternative?",
+    "source": "ell.stackexchange.com",
+    "question_id": 159621,
+    "link": "https://ell.stackexchange.com/questions/159621/whats-a-polite-way-of-asking-who-are-you-on-the-phone",
+    "score": 39,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "alex",
+      "url": "https://ell.stackexchange.com/users/43585/alex"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "t01",
+    "kind": "trap",
+    "category_validated": false,
+    "text": "What is the correct term \"back-end\", \"back end\" or \"backend\"?\n\nI have a question. What's the correct term? Back-end , Back end or Backend I'm a software back-end developer I'm a software back end developer I'm a software backend developer",
+    "title": "What is the correct term \"back-end\", \"back end\" or \"backend\"?",
+    "body_text": "I have a question. What's the correct term? Back-end , Back end or Backend I'm a software back-end developer I'm a software back end developer I'm a software backend developer",
+    "source": "ell.stackexchange.com",
+    "question_id": 117383,
+    "link": "https://ell.stackexchange.com/questions/117383/what-is-the-correct-term-back-end-back-end-or-backend",
+    "score": 60,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "Mateo Guzmán",
+      "url": "https://ell.stackexchange.com/users/48371/mateo-guzm%c3%a1n"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "t02",
+    "kind": "trap",
+    "category_validated": false,
+    "text": "Should I say: She is 'no' student or She is 'not' a student?\n\nI'm always confused with that issue. Should I say She is no student or She is not a student Or are both of them equal? If they are, what is the difference between them?",
+    "title": "Should I say: She is 'no' student or She is 'not' a student?",
+    "body_text": "I'm always confused with that issue. Should I say She is no student or She is not a student Or are both of them equal? If they are, what is the difference between them?",
+    "source": "ell.stackexchange.com",
+    "question_id": 71270,
+    "link": "https://ell.stackexchange.com/questions/71270/should-i-say-she-is-no-student-or-she-is-not-a-student",
+    "score": 25,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Virtuous Legend",
+      "url": "https://ell.stackexchange.com/users/12430/virtuous-legend"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "t03",
+    "kind": "trap",
+    "category_validated": false,
+    "text": "What does \"ima\" mean in \"ima sue the s*** out of em\"?\n\nIs \"ima\" an informal spelling of \"I must\"? MegaCharizardZord Replying to @nytimes about COVID-19 vaccine: i just hope when i take it don't die lol. i trust the government in Canada, but if I do get something ima sue the shit out of em lol. Source: Twitter",
+    "title": "What does \"ima\" mean in \"ima sue the s*** out of em\"?",
+    "body_text": "Is \"ima\" an informal spelling of \"I must\"? MegaCharizardZord Replying to @nytimes about COVID-19 vaccine: i just hope when i take it don't die lol. i trust the government in Canada, but if I do get something ima sue the shit out of em lol. Source: Twitter",
+    "source": "ell.stackexchange.com",
+    "question_id": 267930,
+    "link": "https://ell.stackexchange.com/questions/267930/what-does-ima-mean-in-ima-sue-the-s-out-of-em",
+    "score": 26,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "NewPlanet",
+      "url": "https://ell.stackexchange.com/users/113858/newplanet"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "t04",
+    "kind": "trap",
+    "category_validated": false,
+    "text": "\"On one hand\" vs \"on the one hand.\"\n\nI'm confused because I've seen both mentioned in dictionaries. Example sentence (context: writing a story): On (the) one hand, I want to wrap up everything perfectly. On the other hand, I want to leave some ambiguity to the reader. What's the correct/conventional choice? Maybe this is an American/British English issue?",
+    "title": "\"On one hand\" vs \"on the one hand.\"",
+    "body_text": "I'm confused because I've seen both mentioned in dictionaries. Example sentence (context: writing a story): On (the) one hand, I want to wrap up everything perfectly. On the other hand, I want to leave some ambiguity to the reader. What's the correct/conventional choice? Maybe this is an American/British English issue?",
+    "source": "ell.stackexchange.com",
+    "question_id": 198816,
+    "link": "https://ell.stackexchange.com/questions/198816/on-one-hand-vs-on-the-one-hand",
+    "score": 32,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "wyc",
+      "url": "https://ell.stackexchange.com/users/1806/wyc"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "t05",
+    "kind": "trap",
+    "category_validated": false,
+    "text": "What do you call an action that is less serious than a \"crime\" (that is not illegal, just against rules)?\n\nExample sentence: Dying your hair pink is a __ in secondary school. I thought of words like \"offense\" and \"misdeed,\" but they don't ring quite right.",
+    "title": "What do you call an action that is less serious than a \"crime\" (that is not illegal, just against rules)?",
+    "body_text": "Example sentence: Dying your hair pink is a __ in secondary school. I thought of words like \"offense\" and \"misdeed,\" but they don't ring quite right.",
+    "source": "ell.stackexchange.com",
+    "question_id": 174878,
+    "link": "https://ell.stackexchange.com/questions/174878/what-do-you-call-an-action-that-is-less-serious-than-a-crime-that-is-not-ille",
+    "score": 31,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": {
+      "name": "alex",
+      "url": "https://ell.stackexchange.com/users/43585/alex"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  },
+  {
+    "id": "t06",
+    "kind": "trap",
+    "category_validated": false,
+    "text": "My lady, Your honour, Your grace, how to decide whether to use \"my\" or \"your\"?\n\nAfter watching some period dramas and courtroom dramas, I'm really confused of whether to use \" my \" or \" your \" when speak to someone with respect. Are there some rules for these statements or are these just fixed patterns?",
+    "title": "My lady, Your honour, Your grace, how to decide whether to use \"my\" or \"your\"?",
+    "body_text": "After watching some period dramas and courtroom dramas, I'm really confused of whether to use \" my \" or \" your \" when speak to someone with respect. Are there some rules for these statements or are these just fixed patterns?",
+    "source": "ell.stackexchange.com",
+    "question_id": 20824,
+    "link": "https://ell.stackexchange.com/questions/20824/my-lady-your-honour-your-grace-how-to-decide-whether-to-use-my-or-your",
+    "score": 26,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": {
+      "name": "Evelyn1986",
+      "url": "https://ell.stackexchange.com/users/4384/evelyn1986"
+    },
+    "source_snapshot": "data/raw/ell_selected_withbody.json",
+    "source_snapshot_sha256": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "source_media_types": [],
+    "replaces_question_id": null,
+    "transformations": [
+      "HTML tags removed; entities decoded; whitespace normalized",
+      "Original title prepended to original body; learner errors unchanged"
+    ]
+  }
+]

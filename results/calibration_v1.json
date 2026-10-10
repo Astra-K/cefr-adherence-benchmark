@@ -1,0 +1,318 @@
+{
+  "scorer_version": "0.1.0",
+  "seed": 13,
+  "thresholds": {
+    "A1": {
+      "cap_one_above": 0.1357,
+      "cap_two_plus": 0.1416,
+      "floor_min_share": null,
+      "grammar_floor": null,
+      "syntax_bands": {
+        "mean_sent_len": [
+          6.18,
+          16.17
+        ],
+        "clause_per_sent": [
+          1.0,
+          2.26
+        ],
+        "mean_word_len": [
+          3.35,
+          4.55
+        ]
+      },
+      "cap_one_ci": [
+        0.1039,
+        0.1225
+      ],
+      "cap_two_ci": [
+        0.0981,
+        0.135
+      ]
+    },
+    "B1": {
+      "cap_one_above": 0.0545,
+      "cap_two_plus": 0.0991,
+      "floor_min_share": 0.0625,
+      "grammar_floor": 0.0,
+      "syntax_bands": {
+        "mean_sent_len": [
+          7.3,
+          25.4
+        ],
+        "clause_per_sent": [
+          1.2,
+          3.25
+        ],
+        "mean_word_len": [
+          3.64,
+          5.04
+        ]
+      },
+      "cap_one_ci": [
+        0.0362,
+        0.05
+      ],
+      "cap_two_ci": [
+        0.0625,
+        0.0833
+      ]
+    },
+    "C1": {
+      "cap_one_above": 0.0139,
+      "cap_two_plus": 0.1351,
+      "floor_min_share": 0.0,
+      "grammar_floor": 0.0,
+      "syntax_bands": {
+        "mean_sent_len": [
+          10.97,
+          35.25
+        ],
+        "clause_per_sent": [
+          1.39,
+          4.26
+        ],
+        "mean_word_len": [
+          3.98,
+          5.35
+        ]
+      },
+      "cap_one_ci": [
+        0.0081,
+        0.013
+      ],
+      "cap_two_ci": [
+        0.0917,
+        0.1097
+      ]
+    }
+  },
+  "stats": {
+    "A1": {
+      "n_windows": 113,
+      "n_assessable": 99,
+      "rate_one_above": {
+        "n": 99,
+        "mean": 0.0574,
+        "sd": 0.0455,
+        "p10": 0.0,
+        "p50": 0.0476,
+        "p90": 0.1115
+      },
+      "rate_two_plus": {
+        "n": 99,
+        "mean": 0.0535,
+        "sd": 0.0433,
+        "p10": 0.0,
+        "p50": 0.0444,
+        "p90": 0.1166
+      },
+      "floor_share": {
+        "n": 99,
+        "mean": 0.8892,
+        "sd": 0.0667,
+        "p10": 0.7961,
+        "p50": 0.8955,
+        "p90": 0.9678
+      },
+      "g_floor_share": {
+        "n": 99,
+        "mean": 0.498,
+        "sd": 0.2906,
+        "p10": 0.0,
+        "p50": 0.5,
+        "p90": 1.0
+      },
+      "mean_sent_len": {
+        "n": 99,
+        "mean": 10.118,
+        "sd": 3.2793,
+        "p10": 6.4,
+        "p50": 9.6667,
+        "p90": 14.05
+      },
+      "clause_per_sent": {
+        "n": 99,
+        "mean": 1.486,
+        "sd": 0.4281,
+        "p10": 1.0,
+        "p50": 1.4,
+        "p90": 2.0
+      },
+      "mean_word_len": {
+        "n": 99,
+        "mean": 3.9027,
+        "sd": 0.3451,
+        "p10": 3.5237,
+        "p50": 3.8958,
+        "p90": 4.3023
+      },
+      "unlisted_share_of_content": {
+        "n": 99,
+        "mean": 0.038,
+        "sd": 0.0358,
+        "p10": 0.0,
+        "p50": 0.0299,
+        "p90": 0.0918
+      }
+    },
+    "B1": {
+      "n_windows": 400,
+      "n_assessable": 394,
+      "rate_one_above": {
+        "n": 394,
+        "mean": 0.0152,
+        "sd": 0.0228,
+        "p10": 0.0,
+        "p50": 0.0,
+        "p90": 0.0407
+      },
+      "rate_two_plus": {
+        "n": 394,
+        "mean": 0.0336,
+        "sd": 0.0313,
+        "p10": 0.0,
+        "p50": 0.0276,
+        "p90": 0.0739
+      },
+      "floor_share": {
+        "n": 394,
+        "mean": 0.1516,
+        "sd": 0.0679,
+        "p10": 0.0625,
+        "p50": 0.1495,
+        "p90": 0.2452
+      },
+      "g_floor_share": {
+        "n": 394,
+        "mean": 0.3617,
+        "sd": 0.2734,
+        "p10": 0.0,
+        "p50": 0.3333,
+        "p90": 0.6667
+      },
+      "mean_sent_len": {
+        "n": 394,
+        "mean": 16.2776,
+        "sd": 7.0541,
+        "p10": 9.075,
+        "p50": 15.2917,
+        "p90": 22.94
+      },
+      "clause_per_sent": {
+        "n": 394,
+        "mean": 2.1297,
+        "sd": 1.0079,
+        "p10": 1.25,
+        "p50": 2.0,
+        "p90": 3.0
+      },
+      "mean_word_len": {
+        "n": 394,
+        "mean": 4.3058,
+        "sd": 0.4139,
+        "p10": 3.8379,
+        "p50": 4.2833,
+        "p90": 4.8098
+      },
+      "unlisted_share_of_content": {
+        "n": 394,
+        "mean": 0.0322,
+        "sd": 0.0306,
+        "p10": 0.0,
+        "p50": 0.0263,
+        "p90": 0.0714
+      }
+    },
+    "C1": {
+      "n_windows": 400,
+      "n_assessable": 398,
+      "rate_one_above": {
+        "n": 398,
+        "mean": 0.0023,
+        "sd": 0.0061,
+        "p10": 0.0,
+        "p50": 0.0,
+        "p90": 0.0104
+      },
+      "rate_two_plus": {
+        "n": 398,
+        "mean": 0.0507,
+        "sd": 0.0375,
+        "p10": 0.0092,
+        "p50": 0.0429,
+        "p90": 0.1009
+      },
+      "floor_share": {
+        "n": 398,
+        "mean": 0.0466,
+        "sd": 0.0371,
+        "p10": 0.0,
+        "p50": 0.0397,
+        "p90": 0.094
+      },
+      "g_floor_share": {
+        "n": 398,
+        "mean": 0.1824,
+        "sd": 0.2254,
+        "p10": 0.0,
+        "p50": 0.1,
+        "p90": 0.5
+      },
+      "mean_sent_len": {
+        "n": 398,
+        "mean": 21.3888,
+        "sd": 11.8961,
+        "p10": 12.4,
+        "p50": 20.0,
+        "p90": 28.0
+      },
+      "clause_per_sent": {
+        "n": 398,
+        "mean": 2.5473,
+        "sd": 1.1003,
+        "p10": 1.6,
+        "p50": 2.3333,
+        "p90": 3.53
+      },
+      "mean_word_len": {
+        "n": 398,
+        "mean": 4.6486,
+        "sd": 0.4396,
+        "p10": 4.1133,
+        "p50": 4.6476,
+        "p90": 5.1647
+      },
+      "unlisted_share_of_content": {
+        "n": 398,
+        "mean": 0.0507,
+        "sd": 0.0375,
+        "p10": 0.0092,
+        "p50": 0.0429,
+        "p90": 0.1009
+      }
+    }
+  },
+  "notes": [],
+  "joint_pass": {
+    "A1": {
+      "ceil_pass": 0.9293,
+      "floor_pass": 1.0,
+      "loosen_factor": 1.216
+    },
+    "B1": {
+      "ceil_pass": 0.901,
+      "floor_pass": 0.901,
+      "loosen_factor": 1.34
+    },
+    "C1": {
+      "ceil_pass": 0.9045,
+      "floor_pass": 1.0,
+      "loosen_factor": 1.34
+    }
+  },
+  "separation": {
+    "A1_failing_B1_floor": 0.4444,
+    "B1_failing_C1_floor": null
+  }
+}

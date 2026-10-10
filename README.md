@@ -1,0 +1,151 @@
+# CEFR-adherence benchmark
+
+Can a language model answer an English learner at the requested level instead of merely answering correctly? This benchmark measures tutor replies at A1, B1, and C1 under two conditions: a bare level request and an informed prompt that exposes the scorer's vocabulary and grammar guidance.
+
+The project is a publication candidate for the [Kaggle Benchmarks Challenge][4]. The local benchmark and single-file Kaggle task are complete. Kaggle version 5 is independently verified: 180/180 completed rows, 180/180 score parity, zero visible truncations, and mean score 0.9612. Public task and collection publication are the remaining platform steps.
+
+## Current evidence
+
+The frozen local pilot contains 360 replies: 30 learner questions × 3 target levels × 2 prompt conditions × 2 local models. The table uses the parity-fixed v5 scorer and the frozen relevance decisions from the audited subscription-judge run.
+
+| Model | Mean score | Relevant and CEFR-adherent |
+|---|---:|---:|
+| `mlx-community/Qwen3.5-2B-4bit` | 0.8321 | 113/180 |
+| `mlx-community/Qwen3.5-9B-4bit` | 0.9495 | 148/180 |
+| Combined | 0.8908 | 261/360 |
+
+The larger local model scored higher, but this two-model pilot is not enough to support a general scaling claim. Full cell-level results are in [`results/qwen_local_benchmark_v5/summary.csv`](results/qwen_local_benchmark_v5/summary.csv), with a short report in [`results/qwen_local_benchmark_v5/REPORT.md`](results/qwen_local_benchmark_v5/REPORT.md).
+
+The final Kaggle-hosted run used Gemini 3.7 Flash on all 180 rows. It scored **0.9612**, with **180/180 relevant** and **154/180 relevant-plus-adherent** replies. Independent verification found **180/180 score parity**, **0/180 near-cap outputs**, and **0/180 visibly truncated answers**. See [`results/kaggle_live_v5/REPORT.md`](results/kaggle_live_v5/REPORT.md).
+
+## What the scorer measures
+
+The deterministic scorer is pure Python and returns a value from 0 to 1.
+
+```text
+reply
+  -> structural gate
+  -> context-bound relevance gate
+  -> vocabulary ceiling and floor
+  -> grammar ceiling
+  -> syntax bands
+  -> 0.4 vocabulary + 0.4 grammar + 0.2 syntax
+```
+
+- The structural gate requires non-empty output, at least two detected sentences, and at least one recognized ASCII alphabetic token. English relevance is handled separately by the context-bound judge; this gate is not a language detector.
+- Vocabulary ceilings penalize words above the target band. The B1 floor requires some A2/B1 vocabulary; the calibrated C1 floor is zero and is therefore a known blind spot.
+- Grammar ceilings count detected above-level constructions.
+- Syntax compares sentence length, clauses per sentence, and word length with calibrated bands.
+- The Kaggle task uses `kbench.judge_llm` only for binary, context-bound relevance. Missing or malformed judge evidence raises an unscored error instead of passing by default. Eight matched and mismatched probes must pass before the sweep starts.
+
+The relevance judge is part of the primary Kaggle task because a fluent off-topic answer should not earn a high adherence score. A separate C1 descriptor judge was tested as an experimental extension, but it achieved only 4.17% sensitivity on the labelled pilot and failed its validation gate. It remains an optional research direction and is not included in the primary score.
+
+## Repository map
+
+```text
+src/cefr_bench/        canonical scorer, prompts, thresholds, and utilities
+data/items.json        30 attributed ELL Stack Exchange questions
+data/golden.json       hand-written scorer controls
+kaggle_task/cefr_task.py
+                       generated single-file Kaggle upload artifact
+scripts/               generation, calibration, audit, and evaluation tools
+results/               curated reports, summaries, manifests, and diagnostics
+tests/                 scorer, parity, relevance, and artifact tests
+```
+
+`kaggle_task/cefr_scorer_embedded.py` is retained for local parity testing. The upload artifact does not import it: `cefr_task.py` embeds the scorer, profiles, items, attribution metadata, and prompts in one file.
+
+## Reproduce the local checks
+
+Python 3.11 is the verified interpreter.
+
+```bash
+uv venv --python 3.11 .venv
+uv pip install --python .venv/bin/python -r requirements-dev.txt
+env -u PYTHONPATH .venv/bin/python scripts/gen_kaggle_task.py
+env -u PYTHONPATH .venv/bin/python -m pytest tests -q
+env -u PYTHONPATH .venv/bin/python scripts/rescore_v5_parity.py
+git diff --check
+git diff --exit-code -- kaggle_task/cefr_task.py kaggle_task/cefr_scorer_embedded.py
+```
+
+The `env -u PYTHONPATH` prefix prevents an unrelated Hermes runtime path from shadowing the project environment.
+
+## Kaggle publication workflow
+
+Kaggle's CLI converts the file passed to `kaggle b t push -f` into the task notebook and provides commands for model runs, status, downloads, and publication.[3]
+
+The repository already has Kaggle CLI 2.2.4 installed in `.venv`. The owner must authenticate because the command writes a short-lived Model Proxy credential to `.env`:
+
+```bash
+source .venv/bin/activate
+kaggle auth login
+kaggle b auth -y
+kaggle b t models
+```
+
+`kaggle auth login` opens Kaggle's OAuth flow and caches the account credential locally. `kaggle b auth -y` then writes the short-lived Model Proxy variables to the gitignored `.env`; do not paste either credential into an issue, commit, or chat. Kaggle CLI 2.2.4 does not expose the documented `kaggle b quota` command in every build, so verify the daily and monthly AI-quota counters in the task editor before a live run.
+
+The current local candidate fixes generation at temperature `0.7`, top-p `0.8`, Gemini's supported `low` reasoning level, and a 2,048-token combined reasoning-and-answer ceiling. It uses one attempt per row so a provider-wide failure cannot silently double the inference budget. Version 4 used 1,024 tokens and is retained only as rejected evidence because 14/180 visible answers ended mid-sentence.
+
+```bash
+kaggle b t push cefr-adherence-benchmark -f kaggle_task/cefr_task.py --wait
+kaggle b t status cefr-adherence-benchmark
+kaggle b t run cefr-adherence-benchmark -m <MODEL> --wait
+kaggle b t status cefr-adherence-benchmark
+kaggle b t download cefr-adherence-benchmark --include-source -o results/kaggle_live
+```
+
+Inspect every failed or unscored row before publication. If the task and runs are sound:
+
+```bash
+kaggle b t publish cefr-adherence-benchmark
+```
+
+The benchmark collection itself is assembled and published in Kaggle's web interface. Record its public URL in this README and in `DEV_SUBMISSION_DRAFT.md`.
+
+### Are the two local models and one live Kaggle model enough?
+
+They demonstrate that the benchmark runs against real models and support a bounded comparison: two frozen local Qwen models plus one independently audited Kaggle-hosted Gemini run. They do not support a broad scaling or cross-provider claim. A second Kaggle model would strengthen the leaderboard but is not required for this bounded release and was not run.
+
+## Data, attribution, and licences
+
+The generated Kaggle notebook carries the source and licence notices in a visible Markdown cell. [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) also lists all 30 question authors, profile links, question URLs, and per-revision licences.
+
+- CEFR-J Vocabulary Profile 1.5 and Grammar Profile 20180315 are copyright Tono Laboratory, TUFS. The upstream repository permits research and commercial use without charge when properly cited.[1]
+- The Octanove Vocabulary Profile C1/C2 1.0 is licensed CC BY-SA 4.0.[1]
+- The learner questions come from English Language Learners Stack Exchange. Stack Exchange applies Creative Commons Attribution-ShareAlike per post revision; the frozen API records identify CC BY-SA 3.0 or 4.0 for each item.[2]
+- Frozen UniversalCEFR subsets were used to derive aggregate calibration statistics. The public repository retains source identities, hashes, aggregate statistics, and licence metadata—not the learner texts themselves. Four source subsets are CC BY-NC-SA 4.0 and ICLE500 is CC0 1.0 according to the UniversalCEFR directory.[5] No UniversalCEFR text is embedded in the Kaggle task or published run artifacts.
+- The Kaggle Benchmarks SDK is an Apache-2.0 runtime dependency and is not vendored.
+
+Attribution does not cancel ShareAlike obligations. Preserve `ITEMS` metadata and the third-party notices when redistributing or adapting the task.
+
+## Limitations
+
+- The vocabulary profiles are CEFR-J resources, not a complete representation of global English usage.
+- The 30 learner questions are real but small and not labelled by learner proficiency.
+- The C1 vocabulary floor is not validated, so an under-level reply can pass the current C1 ceiling checks.
+- Grammar detectors cover selected constructions rather than the full CEFR descriptor space.
+- Relevance is not factual correctness.
+- The local pilot uses two quantized Qwen models and a different judge route from Kaggle's live task.
+- Some local generations reached their 512-token ceiling; the reports preserve rather than hide those cases. Kaggle version 4 was likewise rejected—not published—after 14/180 answers visibly ended mid-sentence at its 1,024-token combined ceiling.
+
+## Sources and prior work
+
+The repository's method also references UniversalCEFR (arXiv:2506.01419), Malik et al. (2024), *From Tarzan to Tolkien*, and the TSAR 2025 readability-controlled simplification shared task. These are context for the method, not sources of redistributed text in the Kaggle artifact.
+
+## Source repository
+
+Public source: <https://github.com/Astra-K/cefr-adherence-benchmark>
+
+## Licence
+
+Copyright © 2026 Astra / Astra-K. Original benchmark code is licensed under the GNU Affero General Public License v3.0 only (`AGPL-3.0-only`). Third-party datasets and adapted question text retain thei...[truncated]
+
+## Sources
+
+[1] https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/README.md — Open Language Profiles: CEFR-J datasets and terms
+[2] https://ell.stackexchange.com/help/licensing — English Language Learners Stack Exchange licensing
+[3] https://github.com/Kaggle/kaggle-cli/blob/main/skills/references/benchmarks.md — Kaggle CLI benchmark workflow
+[4] https://dev.to/challenges/kaggle-2026-09-23 — Kaggle Benchmarks Challenge
+[5] https://universalcefr.github.io — UniversalCEFR data directory and licences

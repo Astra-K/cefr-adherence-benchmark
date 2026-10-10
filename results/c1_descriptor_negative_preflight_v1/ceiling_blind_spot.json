@@ -1,0 +1,55 @@
+{
+  "n": 5,
+  "scores_at_C1": [
+    {
+      "combined": 0.9455,
+      "adherent": true,
+      "flags": [],
+      "n_sentences": 5,
+      "vocab": {
+        "rate_one_above": 0.0,
+        "rate_two_plus": 0.1111
+      }
+    },
+    {
+      "combined": 0.9232,
+      "adherent": true,
+      "flags": [],
+      "n_sentences": 6,
+      "vocab": {
+        "rate_one_above": 0.0,
+        "rate_two_plus": 0.0385
+      }
+    },
+    {
+      "combined": 0.9568,
+      "adherent": true,
+      "flags": [],
+      "n_sentences": 5,
+      "vocab": {
+        "rate_one_above": 0.0,
+        "rate_two_plus": 0.0
+      }
+    },
+    {
+      "combined": 0.948,
+      "adherent": true,
+      "flags": [],
+      "n_sentences": 5,
+      "vocab": {
+        "rate_one_above": 0.0,
+        "rate_two_plus": 0.0
+      }
+    },
+    {
+      "combined": 0.9561,
+      "adherent": true,
+      "flags": [],
+      "n_sentences": 5,
+      "vocab": {
+        "rate_one_above": 0.0,
+        "rate_two_plus": 0.087
+      }
+    }
+  ]
+}

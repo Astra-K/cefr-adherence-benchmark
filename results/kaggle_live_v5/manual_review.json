@@ -1,0 +1,24 @@
+{
+  "run": {
+    "task": "cefr-adherence-benchmark",
+    "version": 5,
+    "model": "gemini-3.7-flash",
+    "run_id": "4621190"
+  },
+  "review_scope": {
+    "visible_endings_reviewed": 180,
+    "heuristic_flagged_endings_reviewed": 25,
+    "near_cap_rows": 0,
+    "max_combined_output_tokens": 2019,
+    "configured_combined_cap": 2048
+  },
+  "heuristic_flagged_parameter_ids": [6, 14, 24, 30, 40, 42, 44, 46, 48, 66, 68, 80, 92, 116, 120, 122, 124, 134, 138, 164, 166, 168, 170, 172, 178],
+  "visibly_truncated_parameter_ids": [],
+  "visible_answer_integrity": "pass",
+  "notes": [
+    "Every visible answer ending was reviewed from the complete 180-row ending ledger.",
+    "All heuristic flags were false positives caused by Markdown italics, quoted examples, emoji, or closing quotation marks.",
+    "Combined output-token counts include hidden reasoning; high combined counts did not correspond to incomplete visible answers in this run."
+  ],
+  "publication_verdict": "passes_visible_answer_integrity_gate"
+}

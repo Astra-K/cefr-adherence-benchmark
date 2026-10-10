@@ -1,0 +1,19 @@
+{
+  "assessment": "rejected_not_part_of_benchmark_score",
+  "labelled_n": 36,
+  "authored_negative_n": 5,
+  "positive_n": 24,
+  "negative_n": 12,
+  "sensitivity": 0.041666666666666664,
+  "sensitivity_wilson95": [0.0073934561655057685, 0.20241806478655938],
+  "specificity": 1.0,
+  "specificity_wilson95": [0.7575059933447592, 1.0],
+  "abstention_rate": 0.0,
+  "authored_negative_false_positive": 0,
+  "pilot_gate_passed": false,
+  "source": "UniversalCEFR ICLE500 conversion",
+  "source_documentation": "https://universalcefr.github.io/",
+  "source_corpus_sha256": "7bb84c634a8f95b1bbf2ea30c8ad6de240328276e96fe0d12ac5eef53e9a3fa7",
+  "controls_sha256": "68046ede9ba3969a131fe6114c369a683b76447781c8219d33e868f59773e5a8",
+  "raw_text_publication": "excluded_for_privacy_and_licensing_minimization"
+}

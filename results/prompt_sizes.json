@@ -1,0 +1,30 @@
+{
+  "word_list_sizes": {
+    "A1": 1055,
+    "A2": 2276,
+    "B1": 4375,
+    "B2": 6802,
+    "C1": 7723,
+    "C2": 8605
+  },
+  "prompt_tokens": {
+    "A1": {
+      "informed_min": 2126,
+      "informed_max": 2175,
+      "informed_mean": 2153,
+      "bare_mean": 72
+    },
+    "B1": {
+      "informed_min": 9822,
+      "informed_max": 9871,
+      "informed_mean": 9848,
+      "bare_mean": 72
+    },
+    "C1": {
+      "informed_min": 18347,
+      "informed_max": 18396,
+      "informed_mean": 18373,
+      "bare_mean": 72
+    }
+  }
+}

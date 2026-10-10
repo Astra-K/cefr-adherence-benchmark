@@ -1,0 +1,539 @@
+ID 000 | tokens=169 | chars=618 | flags=-
+ing in an area. ↩  ↩ So, the correct sentence is: ↩ * "The most **populous** cities." (with an **o**) ↩  ↩ Your original idea was also good! You can also say: ↩ * "The most **populated** cities."  ↩  ↩ Both "populous" and "populated" are correct adjectives. "Populace" is not!
+
+ID 001 | tokens=2006 | chars=142 | flags=-
+Your friend is wrong.  ↩  ↩ "Populace" is not right here.  ↩  ↩ The correct word is "populous."  ↩  ↩ You can use your first idea because it is very good.
+
+ID 002 | tokens=344 | chars=1340 | flags=-
+ these phrases are natural in English: ↩ * *The most **populous** cities...* (A bit more formal) ↩ * *The most **populated** cities...* (Very natural and common) ↩  ↩ So, do not worry! You can use **populous** or **populated**, but never *populace* to describe a city.
+
+ID 003 | tokens=93 | chars=430 | flags=-
+ is spelled "populous," which describes an area with many people.  ↩  ↩ Both words sound completely identical, so native speakers often confuse them in written messages.  ↩  ↩ You can safely say "the most populous cities" or continue using "the most populated cities."
+
+ID 004 | tokens=453 | chars=1897 | flags=-
+most populous,"* though it is widely understood and often used colloquially. ↩  ↩ ### Summary ↩ Your intuition was correct: **populace** is a noun and cannot modify "cities." You can safely tell your correspondent that the word they were looking for is **populous**.
+
+ID 005 | tokens=93 | chars=480 | flags=-
+ring to the general public. Therefore, using "populace" as an adjective is grammatically incorrect, and your original instinct was entirely reasonable. You can accurately describe such places as either "the most populous cities" or "the most populated cities."
+
+ID 006 | tokens=551 | chars=454 | flags=no_terminal_punctuation
+lla, it is raining.")* ↩  ↩ * **"Rain is falling"** is **poetic**. It sounds like art. People use it in songs, poems, and stories because it sounds emotional and pretty. ↩  ↩ So, the song title is correct! But when you talk to your friends, say: **"It is raining."** 😊
+
+ID 007 | tokens=1175 | chars=155 | flags=-
+Your sentence is not wrong. People usually say "it is raining" every day. You can hear "rain is falling" in songs and poems. So you can use both sentences.
+
+ID 008 | tokens=301 | chars=1162 | flags=-
+ftly on the street."* ↩  ↩ ### Summary ↩ * **"It is raining"** = The normal way to talk about the weather. ↩ * **"Rain is falling"** = A poetic, descriptive way often used in music and literature.  ↩  ↩ So, don't worry—you were not wrong, and the song is not wrong either!
+
+ID 009 | tokens=75 | chars=354 | flags=-
+rs usually say "it is raining" because this choice feels more natural. However, writers and musicians often use "rain is falling" to create a poetic mood. You can enjoy the song, but remember that "it is raining" is the common phrase for everyday conversation.
+
+ID 010 | tokens=391 | chars=1735 | flags=-
+"**  ↩ * **Creative writing, lyrics, or poetry:** **"Rain is falling"** is completely acceptable and used for aesthetic effect.  ↩  ↩ So, you don't need to be confused—you already understood the everyday rule! You have simply encountered an artistic exception to it.
+
+ID 011 | tokens=85 | chars=465 | flags=-
+escribe weather conditions. However, writers often embrace "rain is falling" in poetry or song lyrics to create a vivid, dramatic image. Therefore, you may use it for stylistic effect, though the ordinary expression remains more natural in casual conversation.
+
+ID 012 | tokens=213 | chars=710 | flags=-
+ing. ↩  ↩ So: ↩ * **12:00 PM** = Middle of the day (lunchtime / sunny). ↩ * **12:00 AM** = Middle of the night (sleeping / dark). ↩  ↩ Many people find this strange, too! Because of this, people often just say **"12 noon"** for the day and **"12 midnight"** for the night.
+
+ID 013 | tokens=49 | chars=190 | flags=-
+This is a very good question! The word "pm" means the time after the middle of the day. At twelve, the afternoon is starting, so we use pm. You can also just say "twelve noon" for this time.
+
+ID 014 | tokens=652 | chars=1810 | flags=no_terminal_punctuation
+t | 11:00 p.m. | 23:00 | ↩ | **Midnight** | **12:00 a.m.** | **00:00** | ↩  ↩ **Summary:**  ↩ Your math is correct, but the English clock uses a very old tradition. Just remember: **12:00 p.m. is lunchtime (sun is high), and 12:00 a.m. is sleeping time (dark night).**
+
+ID 015 | tokens=53 | chars=253 | flags=-
+I understand why this feels strange to you. We change the letters to "pm" because midday is the exact start of the afternoon. People chose this system to avoid mistakes during the day. If you look at a normal clock, the afternoon begins right at twelve.
+
+ID 016 | tokens=829 | chars=2957 | flags=-
+ists, standard style guides (such as the *AP Stylebook* or the *Chicago Manual of Style*) actually advise against using "12:00 am" and "12:00 pm" altogether. Instead, to prevent costly misunderstandings, they recommend writing simply **noon** and **midnight**.
+
+ID 017 | tokens=114 | chars=507 | flags=-
+fore nor after midday, but society chose 12:00 pm to mark the start of the entire afternoon block. If you wish to avoid this arbitrary quirk, you might prefer the 24-hour clock, which naturally resolves your dilemma by progressing from 11:00 straight to 12:00.
+
+ID 018 | tokens=519 | chars=526 | flags=-
+**How do you know?** ↩ You have to listen to the context.  ↩ * If she talks about dating, love, or kissing, it is **romantic**. ↩ * If she just talks about school, shopping, or normal friend activities, it is often **just a friend**.  ↩  ↩ Both meanings are very common!
+
+ID 019 | tokens=44 | chars=212 | flags=-
+Many women call a good female friend a girlfriend. It does not always mean a romantic partner. Sometimes it means love, but often it only means a close friend. You can listen to more of her stories to understand.
+
+ID 020 | tokens=279 | chars=1182 | flags=-
+n she says *"I told my girlfriend that she has to..."*, she could mean **either one**. It is completely normal for a girl to call her best friend her "girlfriend."  ↩  ↩ Unless she shares more details about dating, you cannot know for sure just from that sentence!
+
+ID 021 | tokens=57 | chars=290 | flags=-
+ two different meanings. Women often say "girlfriend" to describe a close female friend, which is very common. However, it can also mean a romantic partner in some situations. You have to listen to the whole conversation to understand the real meaning clearly.
+
+ID 022 | tokens=510 | chars=2348 | flags=-
+r probability she means a romantic partner. ↩  ↩ **The takeaway:**  ↩ Without more context, the sentence *"I told my girlfriend that..."* remains ambiguous. Unless she shares more details about the nature of their relationship, it is best not to jump to conclusions!
+
+ID 023 | tokens=86 | chars=529 | flags=-
+ alike. You might clarify the situation by observing whether she describes romantic dates or simply mentions everyday social outings. Therefore, you had better not assume either possibility until additional details reveal the actual nature of their connection.
+
+ID 024 | tokens=763 | chars=676 | flags=no_terminal_punctuation
+ ↩  ↩ **Example:** ↩ * **Person A:** "This food is terrible." ↩ * **Person B:** "Says you! I think it is delicious." ↩  ↩ **Tip for you:**  ↩ It is fun to understand in movies, but **do not** use it in English tests or at work. For normal English, always say: **"You say."**
+
+ID 025 | tokens=1999 | chars=135 | flags=-
+The correct grammar is "you say". But "says you" is a funny slang sentence. It means, "You are wrong!" You can hear this in old movies.
+
+ID 026 | tokens=795 | chars=996 | flags=-
+swering with *"Says you!"* to sound funny or rude. ↩  ↩ ### Summary ↩ * In an **English test or an essay**, do not write it! Write: *"That is only what you say."* ↩ * In **movies or casual conversations**, it is very natural when people are having a friendly argument.
+
+ID 027 | tokens=63 | chars=292 | flags=-
+ does not follow normal grammar rules. People often use this phrase when they strongly disagree with another person. It means "that is only your opinion, and I do not agree with it." Because it is an old set phrase, speakers do not change the form of the verb.
+
+ID 028 | tokens=420 | chars=1777 | flags=-
+tury American cinema (especially gangster or comedy films) and in cartoons like *The Simpsons*. ↩ * **Context:** It is strictly informal spoken English. You wouldn't use it in professional or academic contexts, but it's a great idiom to recognize in pop culture!
+
+ID 029 | tokens=76 | chars=419 | flags=-
+layfully treats the remark as third-person hearsay. Native speakers use it to reject someone's opinion, so you should avoid writing it in formal contexts. Therefore, while it violates typical agreement rules, it remains entirely natural in spoken conversation.
+
+ID 030 | tokens=212 | chars=666 | flags=no_terminal_punctuation
+* London." ↩ *   An area of work: "I work **in** sales" or "I work **in** an office." ↩  ↩ **Quick answer:** ↩ Say **"I work at XYZ"** or **"I work for XYZ."** Both are correct!  ↩  ↩ *Tip: In everyday English, it is better to say "I work at..." than "I am working at..."*
+
+ID 031 | tokens=61 | chars=255 | flags=-
+You can say all three sentences. People usually say "I am working at XYZ" or "I am working for XYZ." You can say "in" for a big building or city, like "in an office." The three words have almost the same meaning here. Good luck with your English practice!
+
+ID 032 | tokens=393 | chars=1332 | flags=-
+n** an office" or "I work **in** the sales department." ↩  ↩ --- ↩  ↩ ### Summary: ↩ * "I work **for** Apple."  *(Perfect!)* ↩ * "I work **at** Apple."  *(Perfect!)* ↩ * "I work **in** Apple."  *(Try to avoid this)* ↩  ↩ I hope this helps! Let me know if you have any questions.
+
+ID 033 | tokens=76 | chars=334 | flags=-
+. You can use "for" to name your employer, while "at" usually shows the workplace or location. People often choose "in" to mention a department, like working in sales. Therefore, saying "I work for XYZ" or "I work at XYZ" is the best choice for a company name.
+
+ID 034 | tokens=543 | chars=2056 | flags=-
+itution). ↩ * **"I work in XYZ"** $\rightarrow$ Reserve this for your **industry, field, or department**, not the company name.  ↩  ↩ **Best choice:** Stick to **"I work for [Company]"** or **"I work at [Company]."** Both are grammatically sound and widely accepted.
+
+ID 035 | tokens=93 | chars=507 | flags=-
+ as your workplace or physical location. In contrast, "working in" is rarely paired with a specific company name, because native speakers typically reserve that preposition for industries or particular departments, such as working in education or in marketing.
+
+ID 036 | tokens=204 | chars=721 | flags=-
+ the letter **G** (like **G**OD) is automatically a **REAL** number... *unless* you tell the computer it is an **INTEGER**. ↩  ↩ **The Joke:** ↩ It sounds like a deep thought about religion: *"God exists!"*  ↩ But really, it is just a funny rule about Fortran numbers.
+
+ID 037 | tokens=1823 | chars=152 | flags=-
+This is a funny sentence. It comes from the phrase "God is real". The word "real" can mean "true" in life. In Fortran, "real" is also a computer number.
+
+ID 038 | tokens=329 | chars=1275 | flags=-
+mmary ↩ The joke plays with the two meanings of the word **"real"**: ↩ 1. **Real** = existing in the world. ↩ 2. **Real** = a type of number in computer code.  ↩  ↩ So, it sounds like a deep religious statement at first, but it ends as a silly computer programming rule!
+
+ID 039 | tokens=78 | chars=363 | flags=-
+real" to mean that God truly exists. However, in the Fortran programming language, a name starting with "G" becomes a "real" number type automatically. The phrase does not come from a famous idiom, but it mixes human belief with computer rules to create humor.
+
+ID 040 | tokens=449 | chars=2020 | flags=no_terminal_punctuation
+that the metaphysical existence of the Almighty is governed not by divine will or faith, but by the arbitrary scope and syntax rules of a 1950s programming language. In short: *God exists by default, unless a programmer explicitly tells the machine otherwise.*
+
+ID 041 | tokens=101 | chars=562 | flags=-
+inning with the letter G as a floating-point "real" number, unless the programmer explicitly defines that variable as an integer. Consequently, the sentence playfully merges a theological statement about divine existence with a technical rule of computer code.
+
+ID 042 | tokens=170 | chars=626 | flags=no_terminal_punctuation
+ychologists are needed to change a light bulb?"** ↩    * This is also correct. ↩    * But it sounds very serious and formal. ↩  ↩ Your friend is sharing a joke!  ↩  ↩ *(By the way, the answer to the joke is: "Only one, but the light bulb must really want to change!"* 😄*)*
+
+ID 043 | tokens=32 | chars=159 | flags=-
+Your first sentence is correct and very natural. Many people use this sentence for a funny joke. You can also say the second sentence. Both sentences are good!
+
+ID 044 | tokens=182 | chars=726 | flags=no_terminal_punctuation
+s also correct, but it sounds much more formal and serious. People rarely use this version for a joke. ↩  ↩ So, your friend's sentence is perfect.  ↩  ↩ By the way, do you know the answer to the joke? 😄 ↩  ↩ > *"Only one, but the light bulb has to really want to change!"*
+
+ID 045 | tokens=83 | chars=410 | flags=-
+or jokes. People often use this phrase when they ask funny questions about jobs. Your second choice is also good English, but people usually prefer the first one for this joke. The classic answer is: "Only one, but the light bulb really has to want to change!"
+
+ID 046 | tokens=281 | chars=1166 | flags=no_terminal_punctuation
+ight bulb?"* is a famous, formulaic idiom in English comedy. Using any other structure would strip the sentence of its comedic cadence. ↩  ↩ *** ↩  ↩ *(And in case you were curious about the punchline: **"Only one, but the light bulb has to really want to change."**)*
+
+ID 047 | tokens=72 | chars=397 | flags=-
+when telling this type of joke. Your friend's post uses the traditional idiom, which asks about the effort or people required to achieve a result. Therefore, you can safely use either sentence, though the original version sounds much more authentic for humour.
+
+ID 048 | tokens=233 | chars=830 | flags=no_terminal_punctuation
+e death**.* (A battle that ends with death.) ↩  ↩ In the Evelyn Beatrice Hall quote, she means: *"I will fight for your right until I die."* ↩  ↩ ### Short Summary: ↩ * Action kills you $\rightarrow$ **to death** ↩ * Fight until someone dies $\rightarrow$ **to the death**
+
+ID 049 | tokens=70 | chars=310 | flags=-
+on die. For example, a person can freeze to death in cold weather. You use "to the death" for a fight that continues until someone dies. In your sentence, the writer wants to fight until the end of life. Both are good phrases, but they have different meanings.
+
+ID 050 | tokens=385 | chars=1393 | flags=-
+, and I will **never give up**, even if I have to die doing it."*  ↩  ↩ --- ↩  ↩ ### Quick Summary: ↩ *   **To death** = The action **kills** you (e.g., *burned to death*). ↩ *   **To the death** = The action continues **until** someone dies (e.g., *a duel to the death*).
+
+ID 051 | tokens=119 | chars=511 | flags=-
+ath" describes a serious struggle or battle that continues until one person dies. For example, two enemies might fight "to the death" because neither side will give up. In your quote, the speaker wants to fight for an important idea until the very end of life.
+
+ID 052 | tokens=776 | chars=2924 | flags=-
+to the death*) | ↩  ↩ **Quick Test:** ↩ *   *"The prisoners were starved ______."* $\rightarrow$ **to death** (Starvation was the *cause* of death). ↩ *   *"The two samurai fought ______."* $\rightarrow$ **to the death** (The fight will only stop *when* someone dies).
+
+ID 053 | tokens=100 | chars=527 | flags=-
+s. You should use the former to indicate the final result of an ordeal, whereas the latter describes the fierce nature of an ongoing conflict. Therefore, you defend a principle "to the death" because you intend to struggle relentlessly until your final breath.
+
+ID 054 | tokens=843 | chars=591 | flags=-
+es $\rightarrow$ **James's** book ↩   * the bus $\rightarrow$ the **bus's** door ↩  ↩ * **For plural words (more than one):** Add only **'**. ↩   * two brothers $\rightarrow$ my **brothers'** bedroom ↩   * my parents $\rightarrow$ my **parents'** car ↩  ↩ I hope this helps!
+
+ID 055 | tokens=2007 | chars=156 | flags=-
+The first sentence is right. You can write "Alex's house". Always add 's to the name of one person. This is a very easy rule, and it can help you every day.
+
+ID 056 | tokens=343 | chars=1165 | flags=-
+ in 's': ↩ * My **parents'** house *(two parents)* ↩ * The **students'** books *(many students)* ↩  ↩ --- ↩  ↩ **Summary:** ↩ * Singular words (ending in **x** or **s**): Add **'s** (*Alex's*, *James's*) ↩ * Regular plural words (ending in **s**): Add only **'** (*teachers'*)
+
+ID 057 | tokens=75 | chars=323 | flags=-
+tter x. For singular names that end with an s, like James, people usually add 's as well. However, some writers only put the mark without an extra s at the end. Both choices are common in modern books, but using 's is often the safer option for singular nouns.
+
+ID 058 | tokens=672 | chars=2426 | flags=-
+-- ↩  ↩ ### Summary Checklist: ↩ * **Ends in 'x'?** $\rightarrow$ Always **’s** (*Alex’s*) ↩ * **Singular noun ending in 's'?** $\rightarrow$ Standardly **’s** (*James’s*, *boss’s*) ↩ * **Plural noun ending in 's'?** $\rightarrow$ Just the apostrophe **’** (*students’*)
+
+ID 059 | tokens=116 | chars=539 | flags=-
+ames's book". However, some style guides accept just an apostrophe alone for traditional or classical names, such as "Moses'". If you want to maintain consistency, adding an apostrophe and an extra 's' to almost every singular noun remains the safest approach.
+
+ID 060 | tokens=75 | chars=237 | flags=-
+Hello!  ↩  ↩ The correct pronunciation is with the "a" sound in **cake**.  ↩  ↩ You say it like: **GRAY-duhl**  ↩  ↩ It rhymes with the word **cradle** (a bed for a baby).  ↩  ↩ The creators of Gradle say it this way.  ↩  ↩ So, use the "a" like in **cake**!
+
+ID 061 | tokens=1511 | chars=121 | flags=-
+You can say Gradle like the "a" in cake. It is like the word gray. It is not like the word bad. Your first idea is right.
+
+ID 062 | tokens=253 | chars=998 | flags=-
+Tech communities:** You can check programmer podcasts or tech conferences. When everyone uses the same tool, the community quickly agrees on the creator's pronunciation. ↩  ↩ So, tell your team that the people who pronounce it like the "a" in **cake** are correct!
+
+ID 063 | tokens=64 | chars=280 | flags=-
+ like the word "gray" with "dull" at the end. Most people say it with the vowel sound from "cake", not "bad". You might watch online videos from the company to hear how the creators say it. If you choose that way, everyone will understand your meaning clearly.
+
+ID 064 | tokens=399 | chars=1738 | flags=-
+ explicitly states how to say them). ↩ * **Forvo.com:** This is an online audio pronunciation dictionary where native speakers pronounce specialized words, including software names. ↩  ↩ So, you can confidently tell your colleagues that it's pronounced **GRAY-dle**!
+
+ID 065 | tokens=95 | chars=494 | flags=-
+ concept of nurturing a build process. Therefore, pronouncing the first syllable like the word "bad" is actually incorrect among engineers who maintain the project. You will sound much more natural if you stick to the first option during your team discussions.
+
+ID 066 | tokens=548 | chars=484 | flags=no_terminal_punctuation
+am.  ↩  ↩ Why do they say this? An old belief says that if you wish someone "good luck," bad things will happen. So, people say something bad ("break a leg") to bring you **good luck**! ↩  ↩ Your friend just wanted to say: **"Good luck on your exam! Do your best!"** 😊
+
+ID 067 | tokens=2006 | chars=148 | flags=-
+"Break a leg" means "good luck."  ↩  ↩ Yes, it is a special idiom.  ↩  ↩ Your friend is wishing you good luck for your test.  ↩  ↩ You can do well on your test!
+
+ID 068 | tokens=658 | chars=737 | flags=no_terminal_punctuation
+o wish someone good luck. ↩  ↩ **One small note:**  ↩ People usually say **"Break a leg!"** (singular), not "break your legs."  ↩  ↩ So, when your friend said that, she was just wishing you the best of luck on your exam! The correct response is usually just: *"Thanks!"*
+
+ID 069 | tokens=71 | chars=343 | flags=-
+ally "break a leg," and people use it to encourage someone before an important event like an exam or a show. It sounds strange, but people believe that directly wishing good luck might bring bad luck instead. Therefore, you do not have to hurt yourself at all.
+
+ID 070 | tokens=815 | chars=1353 | flags=-
+-stakes, nerve-wracking event—be it a job interview, a public presentation, or, in your case, an important exam. ↩  ↩ So, when your friend said that, she was actually encouraging you and hoping for your success.  ↩  ↩ By the way, did you end up doing well on the exam?
+
+ID 071 | tokens=81 | chars=450 | flags=-
+challenge. Superstition originally led folks to avoid directly saying "good luck," fearing that doing so might unexpectedly bring bad results instead. Therefore, she certainly hoped that you would succeed in your examination rather than suffer any real injury.
+
+ID 072 | tokens=134 | chars=474 | flags=-
+fficult job with **no help** and **no training**.  ↩  ↩ **Examples:** ↩ * "It is my first day, and they **threw me in at the deep end**!" ↩ * "I know nothing about this job. I feel like I was **thrown in at the deep end**." ↩  ↩ Good luck with your new job! You can do it!
+
+ID 073 | tokens=52 | chars=220 | flags=-
+Hello! You can say that you are "in over your head." People also say they were "thrown in at the deep end." These idioms mean a new job is very difficult and you have no help. Do not worry, because you can learn quickly!
+
+ID 074 | tokens=302 | chars=1193 | flags=-
+own to the wolves"** or **"thrown into the fire,"** but those usually mean the situation is very dangerous, cruel, or aggressive. For a job where you simply don't have experience, **"thrown in at the deep end"** is the most natural choice.  ↩  ↩ I hope this helps!
+
+ID 075 | tokens=79 | chars=392 | flags=-
+aining or preparation. Another good phrase is being "out of your depth," which people often use when a situation is too hard to manage. Both expressions connect to swimming, but native speakers use them for work all the time. Good luck with your new challenge!
+
+ID 076 | tokens=620 | chars=2635 | flags=-
+position "about", you don't need "it"). ↩  ↩ If you want the most natural, idiomatic choice for a workplace context, go with **"thrown in at the deep end."** If you want to emphasize that it felt like an attack or a setup, **"thrown to the wolves"** fits the bill!
+
+ID 077 | tokens=70 | chars=392 | flags=-
+duty without prior guidance, expecting you to manage through sheer resilience. Another dynamic option is "baptism of fire," which mirrors your military imagery quite well. If you feel completely unprepared, both phrases will accurately capture your experience.
+
+ID 078 | tokens=577 | chars=372 | flags=-
+ibe a person who is relaxed and happy with anything. ↩  ↩ **Examples:** ↩ * "He is **easygoing** with food. He eats everything." ↩ * "She is **laid-back** about clothes." ↩ * "My friend is very **chill**." ↩  ↩ You can also just say: **"not picky"**! ↩ * "I am **not picky**."
+
+ID 079 | tokens=2000 | chars=164 | flags=-
+You can say the word "easygoing". An easygoing person is happy with all food and clothes. This person is never difficult. It is a very good and natural word to use.
+
+ID 080 | tokens=307 | chars=1133 | flags=no_terminal_punctuation
+* **"Not fussy"** (very common in British English)  ↩ * *Example:* "I'm **not fussy** about where we stay."  ↩  ↩ **Tip:** If you want a quick, casual phrase, you can just say: **"I'm easy!"**  ↩ *(For example: "Do you want pizza or sushi?" — "I'm easy, you choose!")*
+
+ID 081 | tokens=51 | chars=259 | flags=-
+You can call someone "easygoing" if they are not picky. This friendly word describes a person who stays relaxed about food or clothes. Another common choice is "flexible," which also shows a casual attitude. Both words are quite popular in daily conversation.
+
+ID 082 | tokens=411 | chars=1530 | flags=-
+."* ↩ * **"Down for / up for anything"** (Slang/Very informal): ↩   * *"Where do you want to go?" — "Anywhere! I’m **down for anything**."* ↩  ↩ If you are looking for a single, versatile colloquial adjective, **low-maintenance** or **easy-going** will serve you best!
+
+ID 083 | tokens=70 | chars=349 | flags=-
+ describe someone who is not picky as "unfussy," which works perfectly when talking about daily preferences like food or clothes. In casual conversation, you might simply say that a person is "not particular" or "low-maintenance" to convey that relaxed manner.
+
+ID 084 | tokens=813 | chars=715 | flags=-
+s rule: ↩ * A **five-dollar** coffee. *(Not "five-dollars coffee")* ↩ * A **ten-year-old** boy. *(Not "ten-years-old boy")* ↩ * A **two-hour** movie. *(Not "two-hours movie")* ↩  ↩ In French, words often change for plurals, but in English, adjectives always stay simple!
+
+ID 085 | tokens=2001 | chars=145 | flags=-
+This is an interesting rule. Here, the word "letter" describes the other word. You can see this in "a ten-dollar book" too. So, it is not plural.
+
+ID 086 | tokens=839 | chars=1133 | flags=-
+ **A ten-year-old girl** (not *ten-years-old*) ↩ * A note worth five pounds $\rightarrow$ **A five-pound note** (not *five-pounds*) ↩  ↩ **Quick rule to remember:**  ↩ When a number and a noun come before another noun to describe it, keep that first noun **singular**!
+
+ID 087 | tokens=80 | chars=334 | flags=-
+n stays singular. For example, "two-letter" acts like an adjective to describe the word "words." We also use this rule in phrases like "a ten-minute walk" or "a three-year-old child." It can feel strange to French speakers, but you will quickly get used to it!
+
+ID 088 | tokens=497 | chars=1976 | flags=-
+he structure relies on a prepositional phrase placed *after* the noun (*mots [de deux lettres]*), allowing the second noun to stay plural. In English, we compress that information into an adjective placed *before* the noun, which strips away the plural ending.
+
+ID 089 | tokens=92 | chars=467 | flags=-
+r rather than a count of individual letters. English speakers also combine such units with a hyphen to clarify that they describe the final noun together. You can notice the same pattern in familiar expressions like "a ten-pound note" or "a five-minute break."
+
+ID 090 | tokens=416 | chars=291 | flags=-
+"**.  ↩  ↩ You should say:  ↩ * **"the existing result"** (for one result) ↩ * **"the existing results"** (for more than one result) ↩  ↩ **"Existing"** means it is here right now.  ↩  ↩ **Examples:** ↩ * "We can use the **existing results**." ↩ * "Look at the **existing data**."
+
+ID 091 | tokens=1674 | chars=112 | flags=-
+You can say "the existing result". This word is correct. You have got the result now. Please ask more questions!
+
+ID 092 | tokens=189 | chars=727 | flags=no_terminal_punctuation
+** is a real word, but it is very formal, rare, and usually used in philosophy. Native speakers almost never use it in normal writing or speaking. ↩  ↩ **Tip:** Another very natural way to say this is **"the current results"** or **"the results we already have."**
+
+ID 093 | tokens=46 | chars=230 | flags=-
+You should choose "the existing result." We use "existing" to describe things that are present right now. The other two choices do not sound natural in this situation. Therefore, using "existing" will clearly express your meaning.
+
+ID 094 | tokens=530 | chars=2267 | flags=-
+ts": ↩  ↩ * **Current results:** "Based on our *current results*, the hypothesis is supported." ↩ * **Established findings:** "This contradicts *established findings* in the literature." ↩ * **Available data:** "We must work within the limits of the *available data*."
+
+ID 095 | tokens=88 | chars=444 | flags=-
+t sounds overly formal and awkward. Furthermore, "existed" is the past tense form of an intransitive verb, so you cannot use it directly before a noun as a modifier. Therefore, "existing results" is undoubtedly the natural and correct choice for your sentence.
+
+ID 096 | tokens=146 | chars=501 | flags=-
+ sentence means: ↩ "Hard work never **hurt** anyone (in the past, until now)." ↩  ↩ You are also right: you *can* say **"Hard work never hurts anyone"** in the present tense. Both are correct! But people usually use the past tense in this idiom.  ↩  ↩ I hope this helps!
+
+ID 097 | tokens=46 | chars=175 | flags=-
+This is a very good question. The word "hurt" here is in the past. The word "hurt" in the past is the same as "hurt" now. The sentence talks about all the past time until now.
+
+ID 098 | tokens=262 | chars=964 | flags=-
+ork never hurt anyone."** ↩  ↩ Grammatically, you *could* say "Hard work never hurts anyone," and people would understand you. But "Hard work never **hurt** anyone" is a fixed, traditional idiom that uses the past tense.  ↩  ↩ I hope this helps! Keep up the good work!
+
+ID 099 | tokens=73 | chars=314 | flags=-
+e tense. The past form of the verb "hurt" is also "hurt", so it does not change its spelling. The phrase looks back at human history to make a strong point about life. You can also say "hard work never hurts anyone" in the present simple, which is correct too!
+
+ID 100 | tokens=404 | chars=1699 | flags=-
+urts* ↩ * Past: *Hard work hurt* (This is the one used in the idiom) ↩  ↩ So, your grammatical instinct isn't wrong—"hurts" makes sense logically for a general rule. But culturally and idiomatically, the phrase relies on the past simple to cite historical precedent.
+
+ID 101 | tokens=94 | chars=460 | flags=-
+rb at first glance. The statement looks back at human history to declare that, across all past experience, effort has produced no genuine harm. You could certainly say "never hurts" in everyday speech, but the fixed proverb retains this familiar past phrasing.
+
+ID 102 | tokens=671 | chars=618 | flags=-
+man who shot my pa!"* (He wants to find the man who killed his father). ↩  ↩ **The joke:** ↩ The words **"paw"** (foot) and **"pa"** (father) sound almost the same.  ↩  ↩ The dog talks like a tough cowboy, but he is only talking about his hurt foot!  ↩  ↩ I hope this helps!
+
+ID 103 | tokens=2019 | chars=169 | flags=-
+A dog has got four paws.  ↩  ↩ The word "pa" means father.  ↩  ↩ The word "paw" is like the word "pa".  ↩  ↩ In old movies, a bad man shot a father.  ↩  ↩ So this story is a funny joke.
+
+ID 104 | tokens=277 | chars=962 | flags=-
+'m looking for the man who shot my paw,"* it sounds just like a cowboy looking for the man who killed his father. But because he is a dog, he is literally talking about his foot!  ↩  ↩ It's a silly joke, which is why people call it a "dad joke." I hope this helps!
+
+ID 105 | tokens=77 | chars=329 | flags=-
+n movies, an angry cowboy often says, "I am looking for the man who shot my pa," which means his father. However, a dog has a foot called a paw, so the animal wants to find the shooter who hurt its leg. It is a silly play on words that sounds like an old film.
+
+ID 106 | tokens=308 | chars=1263 | flags=-
+of a vengeful cowboy seeking justice for his murdered father, but in reality, he is just an injured animal looking for the person who blew his foot off.  ↩  ↩ It qualifies as a classic "dad joke" because the humor is built entirely on a groaner of an auditory pun!
+
+ID 107 | tokens=96 | chars=460 | flags=-
+an informal term for father. Because an animal foot is called a "paw," both phrases sound almost identical aloud. Therefore, the humor arises from the contrast between a dramatic quest for revenge and an injured animal simply looking for whoever hurt its foot.
+
+ID 108 | tokens=812 | chars=637 | flags=-
+ Friday, many people go shopping. The shops make a lot of money! They use the **black** pen. So, in business, "black" means **success** and **profit**!  ↩  ↩ I really like your idea of "Green Friday" or "Yellow Friday"! That sounds very happy.  ↩  ↩ I hope this helps!
+
+ID 109 | tokens=1790 | chars=210 | flags=-
+This is an interesting question! Long ago, people called this day black because the streets were very busy. Today, every store makes a lot of money on this day. In business, the color black means a good result.
+
+ID 110 | tokens=778 | chars=1188 | flags=-
+, stores finally started making a lot of money and moving "into the black."  ↩  ↩ So, your idea of calling it **"Green Friday"** is very smart! Green is the color of money and happiness. However, the name "Black Friday" was already famous, so people kept using it.
+
+ID 111 | tokens=92 | chars=448 | flags=-
+o write business losses in red ink and profits in black ink. Because many stores finally make a lot of money on this date, they go "into the black." Today, this popular name has stayed around the world, even though shoppers are very happy to find cheap prices.
+
+ID 112 | tokens=495 | chars=2256 | flags=-
+into the black."**  ↩  ↩ *** ↩  ↩ So, while calling it "Green Friday" (symbolizing money, vitality, and optimism) would certainly make more logical sense today, the name "Black Friday" stuck because of a mixture of mid-century traffic dread and brilliant corporate PR!
+
+ID 113 | tokens=110 | chars=644 | flags=-
+ck. While calling such an occasion "Green Friday" might indeed sound far more cheerful to shoppers, historical momentum ultimately preserved the darker title. Nowadays, the phrase simply represents immense commercial success rather than any genuine misfortune.
+
+ID 114 | tokens=426 | chars=254 | flags=-
+Hello! ↩  ↩ This document is usually called a **permission slip**.  ↩  ↩ Schools use this word a lot for trips and excursions. ↩  ↩ You can also call it a **consent form**. This is a more formal name.  ↩  ↩ When parents sign this paper, they say: "Yes, my child can go!"
+
+ID 115 | tokens=1711 | chars=141 | flags=-
+This paper is a permission slip. You can also call it a consent form. A parent signs this paper for school. Now the child can go on the trip.
+
+ID 116 | tokens=188 | chars=807 | flags=no_terminal_punctuation
+ke go-karting, rock climbing, or a trampoline park). Parents sign it to say that the company is not responsible if the child gets hurt. ↩  ↩ **Example sentence:** ↩ > *"Don't forget to ask your parents to sign your **permission slip** for the museum trip tomorrow!"*
+
+ID 117 | tokens=52 | chars=249 | flags=-
+That document is usually called a permission form or a consent form. People also call it a parental slip when it is for a school trip. Schools will often ask for this paper before an activity begins. You have to sign it to show that an adult agrees.
+
+ID 118 | tokens=236 | chars=1106 | flags=-
+ent is usually called a *waiver*. By signing it, parents acknowledge the risks and agree not to hold the organisers legally responsible for injuries. ↩  ↩ In British English, you might also hear it simply referred to as a **consent slip** or **permission letter**.
+
+ID 119 | tokens=56 | chars=312 | flags=-
+ or a parental consent form. Schools also frequently refer to it as a permission slip when it involves day trips or special activities. By signing this paper, parents confirm that they approve of their child's participation and acknowledge any potential risks.
+
+ID 120 | tokens=143 | chars=498 | flags=no_terminal_punctuation
+ster."**  ↩  ↩ * An **imposter** is a person who pretends to be someone else (like pretending to be on the team!).  ↩  ↩ Also, people often use the word **"trespasser"** if it is against the law.  ↩  ↩ The most common and friendly word for your story is **"gatecrasher."**
+
+ID 121 | tokens=45 | chars=185 | flags=-
+You can call that person an "infiltrator" or an "impostor." That is a very funny story about your school sports team. You were like a secret player. Did the teacher ever see your trick?
+
+ID 122 | tokens=285 | chars=1117 | flags=no_terminal_punctuation
+ly! ↩  ↩ **A fun idiom for your situation:** ↩ You can say you were **"flying under the radar."** This means doing something secretly without people noticing you.  ↩  ↩ So, you could say: *"I gatecrashed the athletics class and flew under the radar for the whole year!"*
+
+ID 123 | tokens=1848 | chars=266 | flags=-
+n call someone like that an imposter because they pretend to be part of the group. Another common word for this kind of person is a gatecrasher. At university, students sometimes call this crashing a class. It is quite funny that nobody noticed you were there!
+
+ID 124 | tokens=523 | chars=2059 | flags=no_terminal_punctuation
+ belonged." ↩  ↩ *** ↩  ↩ **A quick note on grammar:**  ↩ In your question, you wrote: *"How would you call a person like that?"*  ↩ In natural English, we say:  ↩ * *"**What** would you call a person like that?"* OR  ↩ * *"**How** would you **describe** a person like that?"*
+
+ID 125 | tokens=90 | chars=401 | flags=-
+n informal contexts, people often use the word "gatecrasher" to depict someone who shows up uninvited, or even a "free rider" if they enjoy benefits without paying. If the focus is on pretending to belong, you might also say you were acting like an "impostor."
+
+ID 126 | tokens=605 | chars=395 | flags=-
+ **"80 years young"** as a happy joke and a compliment.  ↩  ↩ It means: ↩ * The person is 80 years old. ↩ * But he has a lot of energy! ↩ * He is active and feels like a young person. ↩  ↩ It is a very polite and fun way to say: "Age is just a number. He has a young heart!"
+
+ID 127 | tokens=1674 | chars=156 | flags=-
+This is a funny idea. The man is eighty years old, but he feels very young. He likes playing and smiling every day. You can say this to a happy grandfather.
+
+ID 128 | tokens=310 | chars=1168 | flags=-
+derly person. (*"My grandmother is 90 years young and still dances every weekend!"*) ↩ * **Not good:** In formal writing, like a news report, a medical form, or an official document. ↩  ↩ So, it means the person is 80 years old, but with the heart of a young person!
+
+ID 129 | tokens=51 | chars=250 | flags=-
+You are not misinformed at all. People use this special expression to sound playful and polite. It shows that an elderly person still has a lot of energy and a bright spirit. Therefore, it is a friendly compliment rather than a simple fact about age.
+
+ID 130 | tokens=522 | chars=2283 | flags=-
+ in a medical report or legal brief would be considered unprofessional and semantically inappropriate.  ↩  ↩ In summary, grammatically, it is an anomaly; pragmatically, it is a playful compliment aimed at highlighting someone's vitality despite their advanced age.
+
+ID 131 | tokens=66 | chars=372 | flags=-
+g" for "old" to emphasize that an elderly individual still retains remarkable energy, vitality, or a cheerful spirit. By playfully reversing the usual phrasing, the speaker pays a sincere compliment to the person's youthful attitude despite their advanced age.
+
+ID 132 | tokens=182 | chars=579 | flags=-
+ or *she has*.  ↩ So, we must ask: **"Who has...?"** ↩  ↩ Even if the answer is "we" (*We have read...*), the question always uses **has**.  ↩  ↩ * **Correct:** "Who **has** read the book?" -> "We **have**!" ↩ * **Incorrect:** "Who have read the book?" ↩  ↩ I hope this helps!
+
+ID 133 | tokens=2013 | chars=187 | flags=-
+"Who has" is the correct question.  ↩  ↩ This is because "who" is like one person here.  ↩  ↩ You can ask, "Who has already read three English books?"  ↩  ↩ Both are not correct, so please use "has".
+
+ID 134 | tokens=347 | chars=1310 | flags=no_terminal_punctuation
+100% sure the answer must be a group of people (for example: *"Who have not received their tickets yet, you two or those three?"*).  ↩  ↩ However, in normal daily English, **always use "Who has"**.  ↩  ↩ So, stick with: **"Who has already read three English novels?"**
+
+ID 135 | tokens=79 | chars=343 | flags=-
+ use "who" as the subject of a question, it normally takes a singular verb like "has". This rule is common even if the true answer is a group of people, such as "we". Therefore, "Who has" is standard English, while "Who have" sounds strange to native speakers.
+
+ID 136 | tokens=633 | chars=2754 | flags=-
+ready read three English novels?"* (Standard, universal, grammatically robust). ↩ * **Incorrect / Unnatural here:** *"Who **have** already read three English novels?"* (Because there is no preceding plural anchor to justify overriding the default singular rule).
+
+ID 137 | tokens=89 | chars=501 | flags=-
+ond. While "Who have..." can occasionally appear in informal speech when a speaker is consciously focusing on a plural group, careful writers generally avoid it. Therefore, sticking to the singular verb form remains the most accurate choice for your situation.
+
+ID 138 | tokens=204 | chars=667 | flags=no_terminal_punctuation
+llo, can I speak to John, please?"   ↩ > **You:** "Sure! **May I ask who is calling?**"   ↩ > **Caller:** "Yes, it is Anna Smith."   ↩ > **You:** "Thank you, Anna. One moment, please." ↩  ↩ Then, you can tell your co-worker: *"John, Anna Smith is on the phone for you."*
+
+ID 139 | tokens=1416 | chars=149 | flags=-
+You can say, "Who is calling, please?" You can also ask, "Can I have your name, please?" Both questions are very nice. People use them at work often.
+
+ID 140 | tokens=277 | chars=967 | flags=-
+g?**"   ↩ > **Caller:** "Yes, it’s John Smith from ABC Company."   ↩ > **You:** "Thank you, Mr. Smith. Hold on a moment, please. I'll put you through." ↩  ↩ **Tip:** Using words like **"May"** and **"Could"** instantly makes your English sound professional and polite!
+
+ID 141 | tokens=74 | chars=325 | flags=-
+ou can also say, "Could you tell me your name, please?" Both expressions are very natural when you want to pass a call to a co-worker. Another friendly option is, "Who shall I say is calling?" These phrases sound much softer and more professional in an office.
+
+ID 142 | tokens=427 | chars=1668 | flags=-
+nd the company you're with, please?"** ↩  ↩ **A quick tip on tone:**  ↩ Pairing the question with a filler like *"Certainly,"* *"Of course,"* or *"No problem"* right before you ask goes a long way in making the interaction feel warm rather than purely transactional.
+
+ID 143 | tokens=62 | chars=298 | flags=-
+?" or "Could you tell me who is calling, please?" Another very natural and professional option is, "May I tell them who is calling?" These expressions are entirely polite and standard for an office environment, so you will sound professional rather than blunt.
+
+ID 144 | tokens=702 | chars=271 | flags=-
+ question. ↩  ↩ In technology, **"backend"** (one word) is the most common.  ↩  ↩ The best sentence is: ↩ * **"I'm a software backend developer."** 👍 ↩  ↩ You can also write: ↩ * **"I'm a software back-end developer."** 👍 ↩  ↩ Both are correct! Most programmers write **backend**.
+
+ID 145 | tokens=44 | chars=185 | flags=-
+You can use "back-end" or "backend" here. Both words are good before the word "developer". Many people write "backend developer" today. So, your third sentence is very natural and good.
+
+ID 146 | tokens=928 | chars=1173 | flags=-
+ Job Title: ↩ Native speakers usually say: ↩ * *"I'm a **backend developer**."*   ↩ *(You don't need to say "software" because people already know "backend" is about software!)*  ↩  ↩ Both **backend** and **back-end** are great for your CV (resume) and LinkedIn profile.
+
+ID 147 | tokens=71 | chars=302 | flags=-
+t comes before a noun like "developer". Both forms are very common and natural in modern technology jobs. However, if you talk about the system itself as a noun, write "back end" as two separate words. Therefore, you can easily say, "I am a backend developer."
+
+ID 148 | tokens=470 | chars=1980 | flags=-
+cation:** Use **backend developer** (reflecting contemporary industry practice). ↩  ↩ **One critical rule:** Whichever you choose, ensure **consistency** throughout your CV and documentation. Do not switch between *backend* and *back-end* within the same document.
+
+ID 149 | tokens=124 | chars=617 | flags=-
+ use the term as a noun phrase, you should always write it as two separate words, namely "back end." Therefore, while all three options appear in modern discourse, choosing either "back-end developer" or "backend developer" will guarantee professional clarity.
+
+ID 150 | tokens=184 | chars=599 | flags=-
+usually do *not* say this. ↩   * It means: She does not act like a good student (for example, she never studies or she does not care).  ↩  ↩ **Quick Rule:** ↩ Always use **not a** + noun. ↩  ↩ * He is **not a** doctor. ↩ * I am **not a** teacher. ↩ * She is **not a** student.
+
+ID 151 | tokens=64 | chars=236 | flags=-
+You should say: "She is not a student."  ↩  ↩ This sentence is correct and very common.  ↩  ↩ People do not usually say "She is no student" in everyday English.  ↩  ↩ You can use "not a" with other words too, like "not a teacher" or "not a doctor."
+
+ID 152 | tokens=395 | chars=1374 | flags=-
+o) or strong emphasis. ↩   * *I have **no** time.* (Quantity = zero time) ↩   * *He is **no** friend of mine.* (Emphasis = He is definitely not my friend) ↩  ↩ **Summary:**  ↩ Stick with **"She is not a student."** It is the correct and natural choice for daily English!
+
+ID 153 | tokens=70 | chars=345 | flags=-
+act about her daily life. However, if you say, "She is no student," the meaning changes completely. That phrase suggests that she does not have the skills or behavior of a real learner. Therefore, the two sentences are quite different in everyday conversation.
+
+ID 154 | tokens=570 | chars=2198 | flags=-
+ characteristics of a student. | ↩  ↩ If you simply want to state her identity or occupation, always default to **"not a + [noun]"**. Reserve **"no + [noun]"** for moments when you want to add rhetorical flair or express a strong opinion about someone's character.
+
+ID 155 | tokens=80 | chars=448 | flags=-
+role. Conversely, saying that she is no student serves as an emphatic judgment, suggesting that she lacks the typical qualities or discipline of one. Therefore, you should choose the standard negative form unless you actively intend to criticise her behaviour.
+
+ID 156 | tokens=677 | chars=299 | flags=-
+  ↩  ↩ **"Ima"** (or "imma") means **"I am going to."**  ↩  ↩ People use it to talk about the future: ↩  ↩ * **"Ima** sleep" = "I am going to sleep." ↩ * **"Ima** sue them" = "I am going to sue them." ↩  ↩ It is very informal internet slang. Do not use it in school or for work!
+
+ID 157 | tokens=1317 | chars=141 | flags=-
+No, it does not mean "I must". It means "I am going to". People write "ima" on the internet with friends. You can always use "I am going to".
+
+ID 158 | tokens=275 | chars=957 | flags=-
+*   **"sue the shit out of [someone]"**: A vulgar and very informal idiom that means "to sue someone aggressively for a lot of money." ↩  ↩ You can use "ima" when texting friends, but you should avoid it in school, exams, or professional work!  ↩  ↩ I hope this helps!
+
+ID 159 | tokens=67 | chars=264 | flags=-
+his sentence, "ima" does not mean "I must."  ↩  ↩ Instead, it is a very casual way to say "I am going to."  ↩  ↩ People often use it online or in fast speech to talk about their future plans.  ↩  ↩ Therefore, the person is saying that they will take legal action in court.
+
+ID 160 | tokens=325 | chars=1214 | flags=-
+e marker (*am going to*), it is followed directly by a base verb: ↩    * *"Ima head out."* (I'm going to leave.) ↩    * *"Ima call you later."* (I'm going to call you later.) ↩ 3. **Alternative spellings:** You will see it written as **imma**, **i'mma**, or **ima**.
+
+ID 161 | tokens=93 | chars=473 | flags=-
+ declare their immediate intentions. Therefore, the writer simply stated that they intend to initiate legal action against them. Keep in mind that such colloquialisms belong only in very relaxed conversations and should definitely be avoided in formal writing.
+
+ID 162 | tokens=135 | chars=505 | flags=-
+ hand...**  ↩   This is a little more casual. People in the USA use this a lot when speaking.  ↩  ↩ **For your story:** ↩ Write **"On the one hand..."**  ↩ It sounds very good with "On **the** other hand."  ↩  ↩ Both are good, so don't worry! Your example sentence is great.
+
+ID 163 | tokens=2006 | chars=167 | flags=-
+Both forms are good and correct. You can use "on one hand" or "on the one hand." A writer often chooses "on the one hand" for a story. You can pick your favourite way.
+
+ID 164 | tokens=354 | chars=1336 | flags=no_terminal_punctuation
+ick tip for your sentence:* We usually say leave ambiguity **for** the reader (not *to* the reader).  ↩  ↩ > **Best version:**  ↩ > *"On **the** one hand, I want to wrap up everything perfectly. On the other hand, I want to leave some ambiguity **for** the reader."*
+
+ID 165 | tokens=79 | chars=385 | flags=-
+n the one hand," but many speakers drop "the" today. This difference is not strictly about British or American English, because people from both places use both forms. However, you should always keep "the" in the second part when you write "on the other hand."
+
+ID 166 | tokens=408 | chars=1766 | flags=no_terminal_punctuation
+ ↩ > **Suggested revision:**   ↩ > *"On one hand, I want to wrap up everything neatly. On the other, I want to leave some ambiguity for the reader."*  ↩  ↩ *(Notice that you can also drop "hand" in the second clause—"on the other"—to make the prose flow even better!)*
+
+ID 167 | tokens=91 | chars=513 | flags=-
+ encourage the full phrase. In creative prose, retaining the definite article often lends a more polished rhythm to your contrasting thoughts. Therefore, you can safely use either option, provided that your overall tone remains consistent throughout the story.
+
+ID 168 | tokens=123 | chars=438 | flags=no_terminal_punctuation
+nfraction**: ↩ * "Dying your hair pink is a **minor infraction**." ↩  ↩ You can also use this simple phrase: ↩ * "Dying your hair pink is **against the rules**." ↩  ↩ *Note: "Misdeed" sounds too old, and "offense" can sound like a crime. "Violation" is perfect for rules!*
+
+ID 169 | tokens=39 | chars=150 | flags=-
+You can say it is against the rules. For school, many people say "rule-breaking." Another good word is "mistake." You can also say it is a "bad idea."
+
+ID 170 | tokens=339 | chars=1241 | flags=no_terminal_punctuation
+nds like something bad in a fairy tale or story, not a modern school! ↩  ↩ **Tip for everyday speaking:**  ↩ Native speakers often keep it simple and use a verb phrase instead of a single noun: ↩ * *"Dying your hair pink is **against the rules** in secondary school."*
+
+ID 171 | tokens=90 | chars=395 | flags=-
+is "rule violation," but you can also call it a "bad idea" or "wrong choice." In casual English, students often say that dying pink hair is just "not allowed" or "forbidden" by the school. Another good phrase to describe breaking small rules is "bad behavior."
+
+ID 172 | tokens=538 | chars=2163 | flags=no_terminal_punctuation
+ntrasted with a *felony*). Using it for pink hair might sound humorous or hyperbolic.  ↩  ↩ **Summary for your sentence:** ↩ * Formal/Institutional: **a violation of the dress code** or **an infraction** ↩ * Neutral: **a breach of the rules** ↩ * Casual: **a big no-no**
+
+ID 173 | tokens=84 | chars=400 | flags=-
+s broken. For a milder tone suitable for school environments, native speakers often describe this simply as a "rule violation" or an "infraction." Alternatively, you could say that dyeing your hair pink is "against the dress code" to convey the idea naturally.
+
+ID 174 | tokens=894 | chars=661 | flags=-
+ and Lady:** ↩ * **My Lord** (for an important man) ↩ * **My Lady** (for an important woman) ↩  ↩ **Good to know:**  ↩ In modern English, people do not use these words every day. But judges in court still hear **"Your Honour"** today! ↩  ↩ I hope this helps! Happy watching!
+
+ID 175 | tokens=1999 | chars=141 | flags=-
+These are special words from history. They are fixed patterns. You can see "your" with a king or a judge. You can learn each pair as one set!
+
+ID 176 | tokens=500 | chars=1818 | flags=-
+use these! In a normal situation, **"Sir"** or **"Ma'am"** (or just the person's professional title, like "Doctor") is all you need. You only need "Your Honor" if you ever have to speak to an American judge!  ↩  ↩ I hope this helps you enjoy your dramas even more!
+
+ID 177 | tokens=75 | chars=347 | flags=-
+uality like "Honour" or "Grace" to show high respect to that person. However, people historically said "My Lord" or "My Lady" because the speaker belonged to that master. If you want to understand them easily, you can just learn each title as one whole phrase.
+
+ID 178 | tokens=668 | chars=2670 | flags=no_terminal_punctuation
+strict diplomatic protocol, almost all of these are obsolete in modern, everyday English. If you ever meet modern British royalty, standard modern protocol is to address the monarch as **"Your Majesty"** initially, and subsequently as **"Sir"** or **"Ma'am."**
+
+ID 179 | tokens=104 | chars=573 | flags=-
+forms such as "My Lord" or "My Lady" reflected personal allegiance to that superior person. In modern English, you will rarely encounter these expressions outside legal settings or historical dramas, so memorising them as set phrases remains the best strategy.

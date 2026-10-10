@@ -1,0 +1,7 @@
+{
+  "windows_sha256": "3617d97541a187e85d467caae7f227733e0bf18867d388da9b3ae3319bc131a3",
+  "scored_sha256": "397e91878133582504dce8f73da85ed91df79b982ca6a7bfa86f270dc4e16806",
+  "n_windows": 2113,
+  "n_replies": 360,
+  "note": "C1 vocab ceiling removed (grammar ceiling, floors, syntax unchanged); frozen v4 results untouched; relevance labels reused as-is."
+}

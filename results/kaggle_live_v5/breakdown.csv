@@ -1,0 +1,7 @@
+level,condition,rows,mean_score,relevant,adherent,relevant_and_adherent,zero_scores,near_cap,nonterminal_near_cap,short_near_cap
+A1,bare,30,0.8547,30,17,17,0,0,0,0
+A1,informed,30,0.9856,30,28,28,0,0,0,0
+B1,bare,30,0.9453,30,24,24,0,0,0,0
+B1,informed,30,0.9974,30,29,29,0,0,0,0
+C1,bare,30,0.9882,30,26,26,0,0,0,0
+C1,informed,30,0.996,30,30,30,0,0,0,0

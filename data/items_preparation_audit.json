@@ -1,0 +1,54 @@
+{
+  "policy": "title plus full normalized body; seed 42 replacement ordering",
+  "source_hashes": {
+    "data/raw/ell_selected_withbody.json": "b32a150b5f7397803efea1913ee2e8a32d242226e16a95230fd7b2bbd6dca6ee",
+    "data/raw/ell_replacements_withbody.json": "f5ef2f567895ed9dabe1af7f133128fcbc0ed3d7bf60dcdb4fde0703b4189fe5",
+    "data/raw/ell_replacement_time_withbody.json": "a108fa3bc275aaf91442190022cdb5191ca5e54f5e0dc645b0304a81cf9d9b6d"
+  },
+  "excluded": [
+    {
+      "id": "e03",
+      "question_id": 299751,
+      "reason": "image-dependent"
+    },
+    {
+      "id": "e15",
+      "question_id": 95495,
+      "reason": "API content_license missing"
+    },
+    {
+      "id": "e17",
+      "question_id": 33865,
+      "reason": "API content_license missing"
+    },
+    {
+      "id": "e20",
+      "question_id": 217778,
+      "reason": "API content_license missing"
+    }
+  ],
+  "replacements": [
+    {
+      "id": "e03",
+      "old_question_id": 299751,
+      "question_id": 152603
+    },
+    {
+      "id": "e15",
+      "old_question_id": 95495,
+      "question_id": 123894
+    },
+    {
+      "id": "e17",
+      "old_question_id": 33865,
+      "question_id": 222860
+    },
+    {
+      "id": "e20",
+      "old_question_id": 217778,
+      "question_id": 103972
+    }
+  ],
+  "category_note": "Everyday/trap are historical keyword-selection buckets, not validated domains or CEFR labels.",
+  "dataset_sha256": "02057556dd4bff7154911f84b50169641b17dcd8bceca50c832741e40d4c1501"
+}

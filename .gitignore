@@ -1,0 +1,44 @@
+# never commit secrets or credentials
+.env
+.env.*
+*.key
+kaggle.json
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# licensed/private research snapshots (kept locally, not redistributed)
+data/raw/_pool.json
+data/raw/ell_api_probe.json
+data/raw/item_source_research.md
+data/raw/*withbody.json
+data/raw/items_original_v1.json
+data/c1_descriptor_controls_v1.json
+data/raw/universalcefr/
+
+# run artifacts
+*.run.json
+*.task.json
+configs/local_models_verified.json
+results/**/requests/
+results/kaggle_live_failed_v1/
+results/kaggle_live/
+results/kaggle_live_v1/
+results/kaggle_live_v3/
+results/kaggle_live_v3_raw/
+results/kaggle_live_v4_raw/
+results/kaggle_probe_low_caps.json
+results/qwen_local_subscription_v4/
+results/c1_descriptor_diagnostic_v1/
+# Preserve reproducible aggregate Qwen evidence, not full generated replies.
+results/qwen_local_benchmark_v5/scored.jsonl
+results/c1_ceiling_off_v1/rescored_replies.jsonl
+results/raw/
+.local/
+results/qwen_local_pilot_v2/
+# superseded local score exports; v4 preserves judge evidence and v5 is current
+results/qwen_local_subscription_v3/
+results/qwen_local_benchmark_v3/
+configs/local_models_verified.json

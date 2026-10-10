@@ -1,0 +1,441 @@
+{
+  "n_audited": 60,
+  "n_real": 59,
+  "n_artifact": 1,
+  "artifact_share": 0.0167,
+  "by_verdict": {
+    "real: genuinely above-level or unlisted": 50,
+    "real: stem 'employ' is listed at B2 (above target)": 1,
+    "real: stem 'sometime' is listed at B1 (above target)": 1,
+    "real: stem 'otter' is listed at C1 (above target)": 1,
+    "real: stem 'convict' is listed at C1 (above target)": 1,
+    "real: stem 'honour' is listed at A2 (above target)": 1,
+    "real: stem 'christian' is listed at B1 (above target)": 1,
+    "real: stem 'effortless' is listed at C1 (above target)": 1,
+    "real: stem 'voter' is listed at B2 (above target)": 1,
+    "artifact: proper noun": 1,
+    "real: stem 'remain' is listed at A2 (above target)": 1
+  },
+  "audited": [
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "Road",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Mr Wood comes too. 'People of Newton Road,' he says, 'you're right. You want you"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A2",
+      "token": "Tony",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Every house had a garden. The smell of the flowers came in through the open wind"
+    },
+    {
+      "source": "icle500",
+      "level": "C2",
+      "token": "perpetrators",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "They are also people who break the law because their wretched living conditions "
+    },
+    {
+      "source": "icle500",
+      "level": "C2",
+      "token": "ethermedium",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Title: Marx once said that religion was the opium of the masses. If he was alive"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B1",
+      "token": "Project",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "The Eden Project Since it opened, the Eden Project in the south-west of England "
+    },
+    {
+      "source": "golden",
+      "level": "A1",
+      "token": "whether",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "When you want to say where you work you should know that in English we use diffe"
+    },
+    {
+      "source": "golden",
+      "level": "B1",
+      "token": "employs",
+      "verdict": "real: stem 'employ' is listed at B2 (above target)",
+      "context": "When you are choosing between in and for you have to think about whether you are"
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "C2",
+      "token": "horsepower",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "But oh, man, I miss the heat of slipping into that graceful, elegant, shrink-wra"
+    },
+    {
+      "source": "cefr-asag",
+      "level": "B2",
+      "token": "inland",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "In order to live on a sustainable manner without coming back to the Prehsitoric "
+    },
+    {
+      "source": "golden",
+      "level": "A1",
+      "token": "consistency",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Ah, the ubiquitous apostrophe! Its deployment after sibilants remains contentiou"
+    },
+    {
+      "source": "cefr-asag",
+      "level": "B2",
+      "token": "ou",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "I would also encourage inhabitants from developed countries first, as they are m"
+    },
+    {
+      "source": "icle500",
+      "level": "C1",
+      "token": "pedagogical",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "I once read that an American child, when having left school, has had about 11.00"
+    },
+    {
+      "source": "golden",
+      "level": "A1",
+      "token": "sibilants",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Ah, the ubiquitous apostrophe! Its deployment after sibilants remains contentiou"
+    },
+    {
+      "source": "golden",
+      "level": "A1",
+      "token": "notwithstanding",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Ah, the ubiquitous apostrophe! Its deployment after sibilants remains contentiou"
+    },
+    {
+      "source": "icle500",
+      "level": "B2",
+      "token": "inferior",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "With the sexual liberation, women advanced towards the knowledge and experimenta"
+    },
+    {
+      "source": "icle500",
+      "level": "C2",
+      "token": "cannot",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "They are also people who break the law because their wretched living conditions "
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "sometimes",
+      "verdict": "real: stem 'sometime' is listed at B1 (above target)",
+      "context": "They often went away for their work. David played football and the Spice Girls s"
+    },
+    {
+      "source": "golden",
+      "level": "B1",
+      "token": "intuitive",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Should you wish to master these prepositions, immerse yourself in authentic corp"
+    },
+    {
+      "source": "icle500",
+      "level": "C1",
+      "token": "boundaries",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "People who have already got various degrees lack basic abilities to cope with th"
+    },
+    {
+      "source": "golden",
+      "level": "B1",
+      "token": "conundrum",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Undoubtedly, the distinction you've stumbled upon exemplifies the inherent arbit"
+    },
+    {
+      "source": "icle500",
+      "level": "C2",
+      "token": "shortcomings",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "The undeniable thrill, excitement and pleasure made them continue of their path."
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "A2",
+      "token": "Geese",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "When autumn arrives, they have to fly south where the weather is warmer. The win"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "C2",
+      "token": "overdriven",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Pop Music Review The release of Bedrock\u2019s third album was more than just a landm"
+    },
+    {
+      "source": "golden",
+      "level": "B1",
+      "token": "acquirers",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Undoubtedly, the distinction you've stumbled upon exemplifies the inherent arbit"
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "C1",
+      "token": "lesser",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "When shown a work with which they are not familiar, they can often identify not "
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A2",
+      "token": "Otters",
+      "verdict": "real: stem 'otter' is listed at C1 (above target)",
+      "context": "Otters Not many people have seen an otter. These animals live near rivers and\u2028ma"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "C2",
+      "token": "forgo",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Most shockingly, the survey found that 70% of office workers would be willing to"
+    },
+    {
+      "source": "icle500",
+      "level": "B1",
+      "token": "rape",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "I think the whole situation has gone worse. The more equality is preached, the m"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "submarine",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "But your time on the Nautilus is going to teach you a lot of new things. A subma"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B2",
+      "token": "convicted",
+      "verdict": "real: stem 'convict' is listed at C1 (above target)",
+      "context": "At the trial the prosecutor had failed to put vital forensic evidence before the"
+    },
+    {
+      "source": "golden",
+      "level": "B1",
+      "token": "linguistics",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "As an AI language model, I must emphasise that diachronic linguistics renders th"
+    },
+    {
+      "source": "icle500",
+      "level": "B2",
+      "token": "procreating",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "But the world of women is still a dropout in the political world. At last, we mu"
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "B2",
+      "token": "introductory",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "'I reached that moment in every woman's life when she wants a diamond and that i"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B1",
+      "token": "honoured",
+      "verdict": "real: stem 'honour' is listed at A2 (above target)",
+      "context": "Charles, known as the Gentle Giant, also played for Cardiff City, Roma, Hereford"
+    },
+    {
+      "source": "icle500",
+      "level": "B2",
+      "token": "sexuality",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Title: Feminists have done more harm to the cause of women than good The stateme"
+    },
+    {
+      "source": "icle500",
+      "level": "B2",
+      "token": "ups",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "From the moment someone finds it, envy and jealousy arise. And as bad thinking i"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B2",
+      "token": "compelling",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "At the trial the prosecutor had failed to put vital forensic evidence before the"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "C2",
+      "token": "fore",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Out went the earnest angst, plain-shirted drabness and overdriven guitars of a p"
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "C1",
+      "token": "pantiles",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "The Vales use rainwater for washing and drinking, recycle their sewage into gard"
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "A2",
+      "token": "otter",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Otters Not many people have seen an otter. These animals live near rivers and ma"
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "C1",
+      "token": "physiological",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Scientists are far from being in agreement about precisely why so much of our pr"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "competition",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Mike smiled. 'He's very good, and that's a strong wave. It'll be difficult to be"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B1",
+      "token": "SUNNINGDALE",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "SUNNINGDALE HOTEL The Sunningdale Hotel was built in 1913 and opened by Princess"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "beat",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "'He's very good, and that's a strong wave. It'll be difficult to beat him in the"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "Christians",
+      "verdict": "real: stem 'christian' is listed at B1 (above target)",
+      "context": "The people were Hindus, Muslims, Christians, Sikhs and Buddhists. Calcutta had b"
+    },
+    {
+      "source": "icle500",
+      "level": "B2",
+      "token": "EFFORTLESSLY",
+      "verdict": "real: stem 'effortless' is listed at C1 (above target)",
+      "context": "They are advised not to worry, enjoy themselves and spend as much money as they "
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B1",
+      "token": "biospheres",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "At first sight, the huge \u2018biospheres\u2019 on this former industrial site look like a"
+    },
+    {
+      "source": "icle500",
+      "level": "B2",
+      "token": "distrust",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "From the moment someone finds it, envy and jealousy arise. And as bad thinking i"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B1",
+      "token": "voters",
+      "verdict": "real: stem 'voter' is listed at B2 (above target)",
+      "context": "This entails American citizenship (in half the states), being the required age ("
+    },
+    {
+      "source": "cambridge-exams",
+      "level": "C1",
+      "token": "cinder",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "My stay with the Kenyan runners at their team training camp soon provided the an"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "C2",
+      "token": "natter",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Twice he had said that he might be late and not to worry if he dropped into the "
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "B2",
+      "token": "England",
+      "verdict": "artifact: proper noun",
+      "context": "At the trial the prosecutor had failed to put vital forensic evidence before the"
+    },
+    {
+      "source": "cefr-asag",
+      "level": "A2",
+      "token": "english",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "It's difficult to imagine. I can see my life with positive thoughts.I can dream "
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "Injun",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Huck said, \"We can't talk about this. Injun Joe can find us and kill us, too.\" \""
+    },
+    {
+      "source": "icle500",
+      "level": "B1",
+      "token": "brutal",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "I think the whole situation has gone worse. The more equality is preached, the m"
+    },
+    {
+      "source": "golden",
+      "level": "B1",
+      "token": "English",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "I understand why this confuses you. We say it is raining because the verb descri"
+    },
+    {
+      "source": "icle500",
+      "level": "B2",
+      "token": "sexuality",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "But the world of women is still a dropout in the political world. At last, we mu"
+    },
+    {
+      "source": "elg-cefr-en",
+      "level": "A1",
+      "token": "country",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "My sons aren't going to be soldiers. I want peace in my country and in my family"
+    },
+    {
+      "source": "golden",
+      "level": "C1",
+      "token": "agentive",
+      "verdict": "real: genuinely above-level or unlisted",
+      "context": "Your instinct is sound: both forms occur, but they distribute differently. Weath"
+    },
+    {
+      "source": "golden",
+      "level": "A1",
+      "token": "remains",
+      "verdict": "real: stem 'remain' is listed at A2 (above target)",
+      "context": "Ah, the ubiquitous apostrophe! Its deployment after sibilants remains contentiou"
+    }
+  ]
+}
