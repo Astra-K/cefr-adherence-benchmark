@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "checked_at_utc": "2026-10-10T14:37:31Z",
+  "article": {
+    "id": 4828827,
+    "canonical_url": "https://dev.to/astra_k/can-an-ai-tutor-stay-at-the-learners-level-270k",
+    "published_at": "2026-10-10T14:35:45Z",
+    "title": "Can an AI tutor stay at the learner's level?",
+    "author_name": "Astra-K",
+    "author_username": "astra_k",
+    "tags": [
+      "devchallenge",
+      "kagglechallenge",
+      "ai",
+      "machinelearning"
+    ],
+    "cover_present": true,
+    "rendered_table_count": 3,
+    "ai_disclosure": "AI-assisted"
+  },
+  "anonymous_checks": {
+    "article_http_200": true,
+    "challenge_link_present": true,
+    "kaggle_benchmark_link_present": true,
+    "kaggle_task_link_present": true,
+    "source_repository_link_present": true,
+    "bare_condition_list_item_present": true,
+    "informed_condition_list_item_present": true,
+    "indexed_in_kagglechallenge_feed": true
+  },
+  "public_targets": {
+    "challenge": "https://dev.to/challenges/kaggle-2026-09-23",
+    "kaggle_benchmark": "https://www.kaggle.com/benchmarks/astrakamratowski/cefr-adherence-benchmark",
+    "kaggle_task": "https://www.kaggle.com/benchmarks/tasks/astrakamratowski/cefr-adherence-benchmark/5",
+    "source_repository": "https://github.com/Astra-K/cefr-adherence-benchmark"
+  }
+}

@@ -1,6 +1,6 @@
 # Story and publication notes
 
-The publishable article now lives in [`DEV_SUBMISSION_DRAFT.md`](DEV_SUBMISSION_DRAFT.md). This file records the remaining editorial decisions without mixing them into the draft.
+The published article is [Can an AI tutor stay at the learner's level?](https://dev.to/astra_k/can-an-ai-tutor-stay-at-the-learners-level-270k). Its canonical source snapshot remains in [`DEV_SUBMISSION_DRAFT.md`](DEV_SUBMISSION_DRAFT.md).
 
 ## Core story
 
@@ -22,12 +22,14 @@ The useful result is not simply that the 9B local model outscored the 2B model. 
 
 Do not claim that model size causes adherence, that the scorer proves language proficiency, that rejected version 4 is publication-valid, or that the two-model local pilot represents the wider model market.
 
-## Still required before DEV publication
+## Publication record
 
-1. Review the final documentation changes and public benchmark description.
-2. Commit and push the final documentation update under Astra-K.
-3. Re-run the release gates and anonymous-link checks against the final commit.
-4. Publish exactly one DEV submission with the required tags before the contest deadline, only after explicit human approval.
+- Published once on DEV at `2026-10-10T14:35:45Z` under Astra-K.
+- DEV article ID: `4828827`.
+- Required tags: `devchallenge`, `kagglechallenge`, `ai`, `machinelearning`.
+- Anonymous article access, cover rendering, all three tables, and the challenge/Kaggle/GitHub links were verified after publication.
+- The article is indexed in DEV's public `kagglechallenge` feed.
+- Machine-readable receipt: [`results/dev_submission_v1/verification.json`](results/dev_submission_v1/verification.json).
 
 ## Optional, not blocking
 

@@ -2,7 +2,7 @@
 
 Can a language model answer an English learner at the requested level instead of merely answering correctly? This benchmark measures tutor replies at A1, B1, and C1 under two conditions: a bare level request and an informed prompt that exposes the scorer's vocabulary and grammar guidance.
 
-The project is a publication candidate for the [Kaggle Benchmarks Challenge][4]. The [public Kaggle benchmark](https://www.kaggle.com/benchmarks/astrakamratowski/cefr-adherence-benchmark) contains the independently verified [version 5 task](https://www.kaggle.com/benchmarks/tasks/astrakamratowski/cefr-adherence-benchmark/5): 180/180 completed rows, 180/180 score parity, zero visible truncations, and mean score 0.9612. Final human review and DEV publication are the remaining release steps.
+The project is the published [DEV submission](https://dev.to/astra_k/can-an-ai-tutor-stay-at-the-learners-level-270k) for the [Kaggle Benchmarks Challenge][4]. The [public Kaggle benchmark](https://www.kaggle.com/benchmarks/astrakamratowski/cefr-adherence-benchmark) contains the independently verified [version 5 task](https://www.kaggle.com/benchmarks/tasks/astrakamratowski/cefr-adherence-benchmark/5): 180/180 completed rows, 180/180 score parity, zero visible truncations, and mean score 0.9612.
 
 ## Current evidence
 

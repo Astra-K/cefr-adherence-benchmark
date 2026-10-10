@@ -1,8 +1,9 @@
 ---
 title: Can an AI tutor stay at the learner's level?
-published: false
+published: true
 tags: devchallenge, kagglechallenge, ai, machinelearning
 cover_image: https://raw.githubusercontent.com/Astra-K/cefr-adherence-benchmark/main/assets/cefr-adherence-cover.png
+canonical_url: https://dev.to/astra_k/can-an-ai-tutor-stay-at-the-learners-level-270k
 ---
 
 *This is a submission for the [Kaggle Benchmarking Challenge](https://dev.to/challenges/kaggle-2026-09-23).*
